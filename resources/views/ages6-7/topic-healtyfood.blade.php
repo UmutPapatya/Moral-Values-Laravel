@@ -1,7 +1,7 @@
 @extends('front.layouts.master')
 @section('title','Moral-Values Ages 8-9')
 @section('content')
-asad
+asadsss
             <!-- Header Layout Content -->
             <div class="mdk-header-layout__content page-content ">
 
