@@ -1,0 +1,7 @@
+                                @foreach($topics as $topics) 
+                                <li>
+                                    <a style="color: #FFFFFF;" href="ages8-9/topic-reading.html"><span class="text-uppercase">{{$topics->topics_name}}</span><br></a>
+                                   <!-- <span>02/02/2021</span>-->
+                                    <span class="btn-sm bg-success">{{$topics->getCategory->category_name}}</span>
+                                </li>
+                                @endforeach

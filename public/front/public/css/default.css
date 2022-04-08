@@ -1,0 +1,50 @@
+ul.line > li {
+    border-bottom: 1px solid #000000;
+    list-style: none;
+    margin-left: -40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.line p {
+    margin-left: -40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.last_added{
+    background-color: #387d9c;
+    padding-top: 40px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.tow{
+    background-color: #1f5979;
+    padding-top: 15px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.maintitle{
+    margin-left: 50px;
+}
+.maintitle h1{
+    font-size:45px;
+}
+.maintitle p{
+    font-size:23px;
+}
+
+
+.vow{
+    background-color: #337897;
+    padding-top: 15px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.arkaplanrengi{
+ background-color: #539cb5;
+}

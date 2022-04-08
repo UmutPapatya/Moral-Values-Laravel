@@ -1,0 +1,18 @@
+@import './variables';
+@import 'ui-huma/scss/app';
+@import './course-nav';
+@import './player';
+@import './accordion';
+@import './quiz';
+@import './avatar';
+
+.application-shell-content {
+  border-width: 4px !important;
+  border-style: dashed !important;
+  padding: 1rem;
+  flex: 1 1 0%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @include border-radius($border-radius-lg);
+}
