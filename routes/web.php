@@ -59,4 +59,5 @@ Route::view('topic--technology', 'ages10-11/topic--technology');
 Route::view('topic--wasting', 'ages10-11/topic--wasting');
 
 Route::view('/ages12-13', 'ages12-13/ages12-13');
-Route::view('topic--bulliying', 'ages12-13/topic--bulliying');
+Route::view('topic-bulliying', 'ages12-13/topic-bulliying');
+Route::view('topic-wasting', 'ages12-13/topic-wasting');
