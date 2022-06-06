@@ -25,7 +25,7 @@ Route::view('topic-friendship', 'ages6-7/topic-friendship');
 
 
 Route::view('/ages8-9', 'ages8-9/ages8-9');
-Route::view('topic-cleanliness1', 'ages8-9/topic-cleanliness1');
+Route::view('KG1-cleanliness1', 'ages8-9/topic-cleanliness1');
 Route::view('topic-friendship', 'ages8-9/topic-friendship');
 Route::view('topic-honesty', 'ages8-9/topic-honesty');
 Route::view('topic-jealousy', 'ages8-9/topic-jealousy');
@@ -59,5 +59,8 @@ Route::view('topic--technology', 'ages10-11/topic--technology');
 Route::view('topic--wasting', 'ages10-11/topic--wasting');
 
 Route::view('/ages12-13', 'ages12-13/ages12-13');
-Route::view('topic-bulliying', 'ages12-13/topic-bulliying');
-Route::view('topic-wasting', 'ages12-13/topic-wasting');
+Route::view('topic---bulliying', 'ages12-13/topic---bulliying');
+Route::view('topic---wasting', 'ages12-13/topic---wasting');
+Route::view('topic---family', 'ages12-13/topic---family');
+Route::view('topic---timemanagement', 'ages12-13/topic---timemanagement');
+Route::view('topic---helping', 'ages12-13/topic---helping');
