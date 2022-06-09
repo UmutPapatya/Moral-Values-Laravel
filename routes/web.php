@@ -59,8 +59,14 @@ Route::view('topic--technology', 'ages10-11/topic--technology');
 Route::view('topic--wasting', 'ages10-11/topic--wasting');
 
 Route::view('/ages12-13', 'ages12-13/ages12-13');
+Route::view('topic---schoolrules', 'ages12-13/topic---schoolrules');
 Route::view('topic---bulliying', 'ages12-13/topic---bulliying');
 Route::view('topic---wasting', 'ages12-13/topic---wasting');
 Route::view('topic---family', 'ages12-13/topic---family');
 Route::view('topic---timemanagement', 'ages12-13/topic---timemanagement');
 Route::view('topic---helping', 'ages12-13/topic---helping');
+Route::view('topic---reading', 'ages12-13/topic---reading');
+Route::view('topic---responsibility', 'ages12-13/topic---responsibility');
+Route::view('topic---cleanliness', 'ages12-13/topic---cleanliness');
+
+

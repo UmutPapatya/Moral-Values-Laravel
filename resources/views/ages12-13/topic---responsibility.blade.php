@@ -11,15 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="cleanliness"
+                                         alt="Impact of Technology"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Bullying: Be Kind</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Responsibility</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of being kind</span>
-
+                                    <span class="text-50 small font-weight-bold mr-0pt">Responsibility</span>
                                 </p>
                             </div>
                         </div>
@@ -39,7 +38,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/quaIbgWuYic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vpxZPdek5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -51,8 +50,11 @@
                                         </p>
                                     </div>
                                 </div>
+                            
+                    
                                 <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7oKjW1OIjuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7h0tpIsD4bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                   
+                                    <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
@@ -63,62 +65,14 @@
                                         </p>
                                     </div>
                                 </div>
+                             
                             </div>
 
                         </div>
 
                     </div>
                 </div>
-            
-            <!--    <div class="pb-lg-64pt py-32pt">
-                    <div class="container page__container">
-                        <div class="d-flex flex-wrap align-items-end mb-16pt">
-                            <h2 class="text-dark flex m-0">Stories about Cleanliness</h2>
-                        </div>
-                        <div class="bd-example bd-example-tabs">
-                            <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                                <li class="nav-item">
-                                    <a class="btn btn-primary flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Story 1</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Story 2</a>
-                                </li>
-                            </ul>
-                            <div class="tab-content" id="pills-tabContent">
-                                <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            <br> Though his mother warned him of his untidy lifestyle, but Raju was adamant. He thought nothing could happen to him due to his usual habits. One day it happened so that Raju fell very ill – he caught an abdominal infection and was experiencing excruciating pain. The doctor was called. He checked Raju and zeroed on his untidy and unhygienic personality for the infection. The doctor warned him, that if he didn’t change his attitude, then he will keep falling ill throughout his life.
-                                            
-                                            <br>This incident changed Raju and he became a neat and clean boy who always was conscious about his hygiene.
-                                        </p>
-                                    </div>
-                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
-                                        <h2 class="text-dark flex m-0">Moral of the Story</h2>
-                                    </div>
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            The importance of cleanliness in our lives cannot be denied. Maintaining a clean environment is for the health of all humans, as their health completely depends on the atmosphere. A bad environment is solely responsible for spoiling the health of the people around. Dirt and disease go together.                                        </p>
-                                    </div>                                </div>
-                                <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                          bulunacak
-                                        </p>
-                                    </div>
-                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
-                                        <h2 class="text-dark flex m-0">Moral of the Story</h2>
-                                    </div>
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            The importance of cleanliness in our lives cannot be denied. Maintaining a clean environment is for the health of all humans, as their health completely depends on the atmosphere. A bad environment is solely responsible for spoiling the health of the people around. Dirt and disease go together.                                        </p>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <!--  <div class="pb-lg-64pt py-32pt">
 
 
                 <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
@@ -149,4 +103,4 @@
             </div>
             <!-- // END Header Layout Content -->
 
-      @endsection
+@endsection

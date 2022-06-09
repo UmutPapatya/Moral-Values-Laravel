@@ -19,6 +19,39 @@
                         <div class="row card-group-row mb-lg-8pt">
 
                             <div class="col-sm-4 card-group-row__col">
+                                <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
+                                    <a href="{{asset ('topic---schoolrules')}}">
+                                      <div class="card-body d-flex flex-column">
+                                          <div class="d-flex align-items-center">
+                                              <div class="flex">
+                                                  <div class="d-flex align-items-center">
+                                                      <div class="rounded mr-12pt z-0 o-hidden">
+                                                          <div class="overlay">
+                                                              <img src="{{asset('front/')}}/public/images/paths/swift_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
+                                                              <span class="overlay__content overlay__content-transparent">
+                                                                          <span class="overlay__action d-flex flex-column text-center lh-1">
+                                                                              <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
+                                                                          </span>
+                                                                      </span>
+                                                          </div>
+                                                      </div>
+                                                      <div class="flex">
+                                                          <div class="card-title">School and Classroom Rules</div>
+                                                          <p class="flex text-50 lh-1 mb-0"><small>1 Videos</small></p>
+                                                      </div>
+                                                  </div>
+                                              </div>
+  
+  
+                                          </div>
+  
+                                      </div>
+                                    </a>
+                                  </div>
+                            </div>
+
+
+                            <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
                                   <a href="{{asset ('topic---bulliying')}}">
@@ -89,7 +122,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---honesty')}}">
+                                  <a href="{{asset ('topic---reading')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -105,8 +138,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Honesty</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">Reading</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -121,41 +154,9 @@
                             </div>
 
                             <div class="col-sm-4 card-group-row__col">
-                                <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                    <a href="{{asset ('topic---responsibility')}}">
-                                      <div class="card-body d-flex flex-column">
-                                          <div class="d-flex align-items-center">
-                                              <div class="flex">
-                                                  <div class="d-flex align-items-center">
-                                                      <div class="rounded mr-12pt z-0 o-hidden">
-                                                          <div class="overlay">
-                                                              <img src="{{asset('front/')}}/public/images/paths/swift_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                              <span class="overlay__content overlay__content-transparent">
-                                                                          <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                              <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                          </span>
-                                                                      </span>
-                                                          </div>
-                                                      </div>
-                                                      <div class="flex">
-                                                          <div class="card-title">Resposibility</div>
-                                                          <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
-                                                      </div>
-                                                  </div>
-                                              </div>
-  
-  
-                                          </div>
-  
-                                      </div>
-                                    </a>
-                                  </div>
-                            </div>
-
-                            <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---technology')}}">
+                                  <a href="{{asset ('topic---responsibility')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -171,8 +172,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Impact of Technology</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">Responsibility</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -276,6 +277,39 @@
                                                 </div>
                                             </div>
 
+
+                                        </div>
+
+                                    </div>
+                                  </a>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-4 card-group-row__col">
+
+                                <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
+                                  <a href="{{asset ('topic---cleanliness')}}">
+                                    <div class="card-body d-flex flex-column">
+                                        <div class="d-flex align-items-center">
+                                            <div class="flex">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="rounded mr-12pt z-0 o-hidden">
+                                                        <div class="overlay">
+                                                            <img src="{{asset('front/')}}/public/images/paths/devops_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
+                                                            <span class="overlay__content overlay__content-transparent">
+                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
+                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
+                                                                        </span>
+                                                                    </span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex">
+                                                        <div class="card-title">Cleanliness</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
 
                                         </div>
 
