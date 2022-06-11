@@ -1,9 +1,9 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 6-7')
+@section('title','Moral-Values Ages 8-9')
 @section('content')
 
             <!-- Header Layout Content -->
-            <div class="mdk-header-layout__content page-content ">
+            <div cdsadsalass="mdk-header-layout__content page-content ">
 
                 <div class="navbar navbar-light border-0 navbar-expand">
                     <div class="container page__container">

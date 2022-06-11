@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 8-9')
+@section('title','Moral-Values Ages 9-10')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="sharing"
+                                         alt="respect"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Sharing</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Respect</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of sharing</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of respect</span>
 
                                 </p>
                             </div>
@@ -33,13 +33,13 @@
                                 <li class="nav-item">
                                     <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
                                 </li>
-                              <!--  <li class="nav-item">
+                                <li class="nav-item">
                                     <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
-                                </li>-->
+                                </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_jbwzr-fR8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1g4b_riGBL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -51,8 +51,6 @@
                                         </p>
                                     </div>
                                 </div>
-                            
-                    <!--
                                 <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
                                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GkipANiBspE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -64,42 +62,38 @@
                                             Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                         </p>
                                     </div>
-                                </div>-->
-                             
+                                </div>
                             </div>
 
                         </div>
 
                     </div>
                 </div>
-                <div class="pb-lg-64pt py-32pt">
+             <div class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="d-flex flex-wrap align-items-end mb-16pt">
-                            <h2 class="text-dark flex m-0">Stories about Sharing</h2>
+                            <h2 class="text-dark flex m-0">Stories about Respect</h2>
                         </div>
                         <div class="bd-example bd-example-tabs">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item">
                                     <a class="btn btn-primary flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Story 1</a>
                                 </li>
-                               <!-- <li class="nav-item">
+                                <li class="nav-item">
                                     <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Story 2</a>
-                                </li>-->
+                                </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            There once was a farmer who grew the most excellent wheat. Every season he won the award for the best wheat in his county.
+                                            Once upon a time, an old man spread rumors that his neighbor was a thief. As a result, the young man was arrested. Days later the young man was proven innocent. After being released, the man felt humiliated as he walked to his home. He sued the old man for wrongly Accusing him.
 
-                                            A wise woman came to him to ask him about his success.
-                                            
-                                            He told her that the key was sharing his best seed with his neighbors so they could plant the seed as well.
-                                            
-                                            The wise woman asked, “How can you share your best wheat seed with your neighbors when they compete with you every year?”
-                                            
-                                            “That’s simple,” the farmer replied. “The wind spreads the pollen from everyone’s wheat and carries it from field to field. If my neighbors grew inferior wheat, cross-pollination would degrade everyone’s wheat, including mine. If I’m to grow the best wheat, I must help my neighbors grow the best wheat as well.”
-                                                                
+In court, the old man told the Judge, “They were just comments, didn’t Harm anyone..” The judge, before passing sentence on the case, told the old man, “Write All the things you said about him on a piece of paper. Cut them up and On the way home, throw the pieces of paper out. Tomorrow, come back to Hear the sentence”.
+
+The next day, the judge told the old man, “Before receiving the Sentence, you will have to go out and gather all the pieces of paper That you threw out yesterday”. The old man said, “I can’t do that! The wind must have spreads them and I won’t Know where to find them”.
+
+The judge then replied, “The same way, simple comments may destroy the honor of a man to such an extent that one is not able to fix it. The old man realized his mistake and asked for forgiveness”.
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -107,16 +101,19 @@
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            This is not only excellent advice for growing the best crops, but also great advice for how to live your life.
-
-                                         <br>   If you want to live a meaningful and happy life, help others find happiness.
-                                            
-                                          <br>  Remember: The value of your life is measured by the lives you touch with love, kindness, respect, and hope.                                        </p>
+                                            Do not malignant or blame anyone without knowing the fact or a truth. Your words may ruin someone’s reputation without any fault of theirs.
+                                        </p>
                                     </div>                                </div>
                                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            
+                                            Once upon a time, there was a small town. There lived a man by himself who couldn’t see. He was blind. Yet, he carried a lighted lamp with him whenever he went out at night.
+
+One night as he was coming home after having a dinner outside, he came across a group of young travellers. They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him. One of them asked him, “Hey Man! You are blind and can’t see anything! Why do you carry the lamp then?!”
+
+The blind man replied, “Yes, unfortunately, I am blind and I can’t see anything but a lighted lamp which I am carrying is for the people like you who can see. You may not see the blind man coming and end up pushing me. That is why I carry a lighted lamp”.
+
+The group of travellers felt ashamed and apologized for their behaviour.
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -160,6 +157,6 @@
 
             </div>
             <!-- // END Header Layout Content -->
-
+        
  
             @endsection

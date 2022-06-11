@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 8-9')
+@section('title','Moral-Values Ages 9-10')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,15 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="Responsibility"
+                                         alt="Justice"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Responsibility</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Justice and Equality</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Responsibility</span>
-
+                                    <span class="text-50 small font-weight-bold mr-0pt">2 Videos</span>
                                 </p>
                             </div>
                         </div>
@@ -33,13 +32,15 @@
                                 <li class="nav-item">
                                     <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
                                 </li>
-                                 <li class="nav-item">
+                               <li class="nav-item">
                                     <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/koGyDZI4Ra8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oRnSdwCnxZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <br> <br>
+                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
 
@@ -49,8 +50,11 @@
                                         </p>
                                     </div>
                                 </div>
+                            
+                    
                                 <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IzEYos5En_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                   <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6qrEyjVMajY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
 
@@ -60,13 +64,14 @@
                                         </p>
                                     </div>
                                 </div>
+                             
                             </div>
 
                         </div>
 
                     </div>
                 </div>
-            <!--  <div class="pb-lg-64pt py-32pt">
+    <!--  <div class="pb-lg-64pt py-32pt">
 
 
                 <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
@@ -95,7 +100,7 @@
                 </div>
 
             </div>
-            <!-- // END Header Layout Content -->
+       // END Header Layout Content -->
 
- 
+  
             @endsection

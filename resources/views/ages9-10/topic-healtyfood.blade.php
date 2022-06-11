@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 8-9')
+@section('title','Moral-Values Ages 9-10')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="Jealousy"
+                                         alt="Healty Food"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Jealousy</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Healty Food</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Causes and Effects of Jealousy</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Eating Healty Food</span>
 
                                 </p>
                             </div>
@@ -39,7 +39,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hQGYqZUJNJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9VtxCxtsMAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -101,6 +101,6 @@
                 </div>
 
             </div>
-             // END Header Layout Content -->
+            // END Header Layout Content -->
 
-            @endsection
+ @endsection

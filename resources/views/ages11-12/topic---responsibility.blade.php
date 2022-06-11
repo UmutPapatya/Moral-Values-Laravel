@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 12-13')
+@section('title','Moral-Values Ages 11-12')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,15 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="friendship"
+                                         alt="Impact of Technology"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Helping</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Responsibility</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Helping Others</span>
-
+                                    <span class="text-50 small font-weight-bold mr-0pt">Responsibility</span>
                                 </p>
                             </div>
                         </div>
@@ -39,7 +38,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TkHWayeIT_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vpxZPdek5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -51,8 +50,10 @@
                                         </p>
                                     </div>
                                 </div>
+                            
+                    
                                 <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a7fVX0uKUaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7h0tpIsD4bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                   
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -64,13 +65,14 @@
                                         </p>
                                     </div>
                                 </div>
+                             
                             </div>
 
                         </div>
 
                     </div>
                 </div>
- <!--  <div class="pb-lg-64pt py-32pt">
+    <!--  <div class="pb-lg-64pt py-32pt">
 
 
                 <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">

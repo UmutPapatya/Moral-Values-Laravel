@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 8-9')
+@section('title','Moral-Values Ages 11-12')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -16,9 +16,9 @@
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Cleanliness</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Reading</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of cleanliness</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Benefits of Reading</span>
 
                                 </p>
                             </div>
@@ -39,7 +39,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-CIYTf7Oky4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kul-g_30HuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -51,8 +51,8 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade show embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-respnsive-item" src="https://www.youtube.com/embed/B7RS-vLZ1yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
+                                <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Q3NcqCW8mrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
@@ -69,7 +69,8 @@
 
                     </div>
                 </div>
-                <div class="pb-lg-64pt py-32pt">
+              
+              <!--  <div class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="d-flex flex-wrap align-items-end mb-16pt">
                             <h2 class="text-dark flex m-0">Stories about Cleanliness</h2>
@@ -79,9 +80,9 @@
                                 <li class="nav-item">
                                     <a class="btn btn-primary flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Story 1</a>
                                 </li>
-                              <!--  <li class="nav-item">
+                                <li class="nav-item">
                                     <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Story 2</a>
-                                </li> -->
+                                </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
@@ -148,4 +149,4 @@
             </div>
             <!-- // END Header Layout Content -->
 
-    @endsection
+      @endsection

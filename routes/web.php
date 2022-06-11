@@ -19,28 +19,28 @@ Route::view('/categories', 'categories');
 Route::view('/about', 'about');
 Route::view('/contact', 'contact');
 
-Route::view('/ages6-7', 'ages6-7/ages6-7');
-Route::view('topic-happy', 'ages6-7/topic-happy');
-Route::view('topic-friendship', 'ages6-7/topic-friendship');
-
-
 Route::view('/ages8-9', 'ages8-9/ages8-9');
-Route::view('KG1-cleanliness1', 'ages8-9/topic-cleanliness1');
+Route::view('topic-happy', 'ages8-9/topic-happy');
 Route::view('topic-friendship', 'ages8-9/topic-friendship');
-Route::view('topic-honesty', 'ages8-9/topic-honesty');
-Route::view('topic-jealousy', 'ages8-9/topic-jealousy');
-Route::view('topic-justice', 'ages8-9/topic-justice');
-Route::view('topic-patience', 'ages8-9/topic-patience');
-Route::view('topic-reading', 'ages8-9/topic-reading');
-Route::view('topic-respect', 'ages8-9/topic-respect');
-Route::view('topic-respect2', 'ages8-9/topic-respect2');
-Route::view('topic-responsibility', 'ages8-9/topic-responsibility');
-Route::view('topic-schoolrules', 'ages8-9/topic-schoolrules');
-Route::view('topic-schoolsafetyrules', 'ages8-9/topic-schoolsafetyrules');
-Route::view('topic-sharing', 'ages8-9/topic-sharing');
-Route::view('topic-technology', 'ages8-9/topic-technology');
-Route::view('topic-wasting', 'ages8-9/topic-wasting');
-Route::view('topic-healtyfood', 'ages8-9/topic-healtyfood');
+
+
+Route::view('/ages9-10', 'ages9-10/ages9-10');
+Route::view('KG1-cleanliness1', 'ages9-10/topic-cleanliness1');
+Route::view('topic-friendship', 'ages9-10/topic-friendship');
+Route::view('topic-honesty', 'ages9-10/topic-honesty');
+Route::view('topic-jealousy', 'ages9-10/topic-jealousy');
+Route::view('topic-justice', 'ages9-10/topic-justice');
+Route::view('topic-patience', 'ages9-10/topic-patience');
+Route::view('topic-reading', 'ages9-10/topic-reading');
+Route::view('topic-respect', 'ages9-10/topic-respect');
+Route::view('topic-respect2', 'ages9-10/topic-respect2');
+Route::view('topic-responsibility', 'ages9-10/topic-responsibility');
+Route::view('topic-schoolrules', 'ages9-10/topic-schoolrules');
+Route::view('topic-schoolsafetyrules', 'ages9-10/topic-schoolsafetyrules');
+Route::view('topic-sharing', 'ages9-10/topic-sharing');
+Route::view('topic-technology', 'ages9-10/topic-technology');
+Route::view('topic-wasting', 'ages9-10/topic-wasting');
+Route::view('topic-healtyfood', 'ages9-10/topic-healtyfood');
 
 Route::view('/ages10-11', 'ages10-11/ages10-11');
 Route::view('topic--cleanliness1', 'ages10-11/topic--cleanliness1');
@@ -58,15 +58,15 @@ Route::view('topic--sharing', 'ages10-11/topic--sharing');
 Route::view('topic--technology', 'ages10-11/topic--technology');
 Route::view('topic--wasting', 'ages10-11/topic--wasting');
 
-Route::view('/ages12-13', 'ages12-13/ages12-13');
-Route::view('topic---schoolrules', 'ages12-13/topic---schoolrules');
-Route::view('topic---bulliying', 'ages12-13/topic---bulliying');
-Route::view('topic---wasting', 'ages12-13/topic---wasting');
-Route::view('topic---family', 'ages12-13/topic---family');
-Route::view('topic---timemanagement', 'ages12-13/topic---timemanagement');
-Route::view('topic---helping', 'ages12-13/topic---helping');
-Route::view('topic---reading', 'ages12-13/topic---reading');
-Route::view('topic---responsibility', 'ages12-13/topic---responsibility');
-Route::view('topic---cleanliness', 'ages12-13/topic---cleanliness');
+Route::view('/ages11-12', 'ages11-12/ages11-12');
+Route::view('topic---schoolrules', 'ages11-12/topic---schoolrules');
+Route::view('topic---bulliying', 'ages11-12/topic---bulliying');
+Route::view('topic---wasting', 'ages11-12/topic---wasting');
+Route::view('topic---family', 'ages11-12/topic---family');
+Route::view('topic---timemanagement', 'ages11-12/topic---timemanagement');
+Route::view('topic---helping', 'ages11-12/topic---helping');
+Route::view('topic---reading', 'ages11-12/topic---reading');
+Route::view('topic---responsibility', 'ages11-12/topic---responsibility');
+Route::view('topic---cleanliness', 'ages11-12/topic---cleanliness');
 
 

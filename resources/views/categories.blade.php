@@ -235,7 +235,7 @@
 
                                 <div class="card card-sm card--elevated p-relative o-hidden overlay js-overlay card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
 
-                                    <a href="{{ url('/ages6-7') }}" class="card-img-top js-image" data-position="center" data-height="140" data-domfactory-upgraded="image" style="display: block; position: relative; overflow: hidden; background-image: url({{asset('front/')}}/public/images/ages6-7.jpg); background-size: cover; background-position: center center; height: 180px;">
+                                    <a href="{{ url('/ages8-9') }}" class="card-img-top js-image" data-position="center" data-height="140" data-domfactory-upgraded="image" style="display: block; position: relative; overflow: hidden; background-image: url({{asset('front/')}}/public/images/ages6-7.jpg); background-size: cover; background-position: center center; height: 180px;">
                                         <img src="{{asset('front/')}}/public/images/ages6-7.jpg" alt="course" style="visibility: hidden;">
                                         <span class="overlay__content">
                                                     <span class="overlay__action d-flex flex-column text-center">
@@ -248,7 +248,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages6-7') }}">Ages 8-9</a>
+                                                <a class="card-title" href="{{ url('/ages8-9') }}">Ages 8-9</a>
                                             </div>
                                         </div>
                                     </div>
@@ -272,7 +272,7 @@
 
                                 <div class="card card-sm card--elevated p-relative o-hidden overlay js-overlay card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
 
-                                    <a href="{{ url('/ages8-9') }}" class="card-img-top js-image" data-position="center" data-height="140" data-domfactory-upgraded="image" style="display: block; position: relative; overflow: hidden; background-image: url({{asset('front/')}}/public/images/ages8-9.jpg); background-size: cover; background-position: center center; height: 180px;">
+                                    <a href="{{ url('/ages9-10') }}" class="card-img-top js-image" data-position="center" data-height="140" data-domfactory-upgraded="image" style="display: block; position: relative; overflow: hidden; background-image: url({{asset('front/')}}/public/images/ages8-9.jpg); background-size: cover; background-position: center center; height: 180px;">
                                         <img src="{{asset('front/')}}/public/images/ages8-9.jpg" alt="course" style="visibility: hidden;">
                                         <span class="overlay__content">
                                                     <span class="overlay__action d-flex flex-column text-center">
@@ -285,7 +285,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages8-9') }}">Ages 9-10</a>
+                                                <a class="card-title" href="{{ url('/ages9-10') }}">Ages 9-10</a>
                                             </div>
                                         </div>
                                     </div>
@@ -346,7 +346,7 @@
 
                                 <div class="card card-sm card--elevated p-relative o-hidden overlay js-overlay card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
 
-                                    <a href="{{ url('/ages12-13') }}" class="card-img-top js-image" data-position="center" data-height="140" data-domfactory-upgraded="image" style="display: block; position: relative; overflow: hidden; background-image: url({{asset('front/')}}/public/images/ages12-13.jpg); background-size: cover; background-position: center center; height: 180px;">
+                                    <a href="{{ url('/ages11-12') }}" class="card-img-top js-image" data-position="center" data-height="140" data-domfactory-upgraded="image" style="display: block; position: relative; overflow: hidden; background-image: url({{asset('front/')}}/public/images/ages12-13.jpg); background-size: cover; background-position: center center; height: 180px;">
                                         <img src="{{asset('front/')}}/public/images/ages12-13.jpg" alt="course" style="visibility: hidden;">
                                         <span class="overlay__content">
                                                     <span class="overlay__action d-flex flex-column text-center">
@@ -359,7 +359,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages12-13') }}">Ages 11-12</a>
+                                                <a class="card-title" href="{{ url('/ages11-12') }}">Ages 11-12</a>
                                             </div>
                                         </div>
                                     </div>

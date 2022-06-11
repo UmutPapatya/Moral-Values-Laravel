@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 8-9')
+@section('title','Moral-Values Ages 11-12')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="respect"
+                                         alt="cleanliness"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Respect</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Bullying: Be Kind</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of respect</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of being kind</span>
 
                                 </p>
                             </div>
@@ -39,7 +39,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1g4b_riGBL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/quaIbgWuYic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -52,7 +52,7 @@
                                     </div>
                                 </div>
                                 <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GkipANiBspE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7oKjW1OIjuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
@@ -69,10 +69,11 @@
 
                     </div>
                 </div>
-             <div class="pb-lg-64pt py-32pt">
+            
+            <!--    <div class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="d-flex flex-wrap align-items-end mb-16pt">
-                            <h2 class="text-dark flex m-0">Stories about Respect</h2>
+                            <h2 class="text-dark flex m-0">Stories about Cleanliness</h2>
                         </div>
                         <div class="bd-example bd-example-tabs">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -87,13 +88,9 @@
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            Once upon a time, an old man spread rumors that his neighbor was a thief. As a result, the young man was arrested. Days later the young man was proven innocent. After being released, the man felt humiliated as he walked to his home. He sued the old man for wrongly Accusing him.
-
-In court, the old man told the Judge, “They were just comments, didn’t Harm anyone..” The judge, before passing sentence on the case, told the old man, “Write All the things you said about him on a piece of paper. Cut them up and On the way home, throw the pieces of paper out. Tomorrow, come back to Hear the sentence”.
-
-The next day, the judge told the old man, “Before receiving the Sentence, you will have to go out and gather all the pieces of paper That you threw out yesterday”. The old man said, “I can’t do that! The wind must have spreads them and I won’t Know where to find them”.
-
-The judge then replied, “The same way, simple comments may destroy the honor of a man to such an extent that one is not able to fix it. The old man realized his mistake and asked for forgiveness”.
+                                            <br> Though his mother warned him of his untidy lifestyle, but Raju was adamant. He thought nothing could happen to him due to his usual habits. One day it happened so that Raju fell very ill – he caught an abdominal infection and was experiencing excruciating pain. The doctor was called. He checked Raju and zeroed on his untidy and unhygienic personality for the infection. The doctor warned him, that if he didn’t change his attitude, then he will keep falling ill throughout his life.
+                                            
+                                            <br>This incident changed Raju and he became a neat and clean boy who always was conscious about his hygiene.
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -101,19 +98,12 @@ The judge then replied, “The same way, simple comments may destroy the honor o
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            Do not malignant or blame anyone without knowing the fact or a truth. Your words may ruin someone’s reputation without any fault of theirs.
-                                        </p>
+                                            The importance of cleanliness in our lives cannot be denied. Maintaining a clean environment is for the health of all humans, as their health completely depends on the atmosphere. A bad environment is solely responsible for spoiling the health of the people around. Dirt and disease go together.                                        </p>
                                     </div>                                </div>
                                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            Once upon a time, there was a small town. There lived a man by himself who couldn’t see. He was blind. Yet, he carried a lighted lamp with him whenever he went out at night.
-
-One night as he was coming home after having a dinner outside, he came across a group of young travellers. They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him. One of them asked him, “Hey Man! You are blind and can’t see anything! Why do you carry the lamp then?!”
-
-The blind man replied, “Yes, unfortunately, I am blind and I can’t see anything but a lighted lamp which I am carrying is for the people like you who can see. You may not see the blind man coming and end up pushing me. That is why I carry a lighted lamp”.
-
-The group of travellers felt ashamed and apologized for their behaviour.
+                                          bulunacak
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -121,7 +111,8 @@ The group of travellers felt ashamed and apologized for their behaviour.
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            We should think before judging others. Always be polite and learn to see things from others point of view.                                        </p>
+                                            The importance of cleanliness in our lives cannot be denied. Maintaining a clean environment is for the health of all humans, as their health completely depends on the atmosphere. A bad environment is solely responsible for spoiling the health of the people around. Dirt and disease go together.                                        </p>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -157,6 +148,5 @@ The group of travellers felt ashamed and apologized for their behaviour.
 
             </div>
             <!-- // END Header Layout Content -->
-        
- 
-            @endsection
+
+      @endsection
