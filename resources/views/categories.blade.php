@@ -248,7 +248,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages6-7') }}">Ages 6-7</a>
+                                                <a class="card-title" href="{{ url('/ages6-7') }}">Ages 8-9</a>
                                             </div>
                                         </div>
                                     </div>
@@ -285,7 +285,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages8-9') }}">Ages 8-9</a>
+                                                <a class="card-title" href="{{ url('/ages8-9') }}">Ages 9-10</a>
                                             </div>
                                         </div>
                                     </div>
@@ -359,7 +359,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages12-13') }}">Ages 12-13</a>
+                                                <a class="card-title" href="{{ url('/ages12-13') }}">Ages 11-12</a>
                                             </div>
                                         </div>
                                     </div>
