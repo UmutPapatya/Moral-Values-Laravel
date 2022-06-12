@@ -21,7 +21,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                <a href="{{asset ('topic--schoolrules')}}">
+                                <a href="{{asset ('G5-schoolrules')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -54,7 +54,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--respect')}}">
+                                  <a href="{{asset ('G5-respect')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -86,7 +86,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="">
-                                  <a href="{{asset ('topic--sharing')}}">
+                                  <a href="{{asset ('G5-sharing')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -118,7 +118,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card"  data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--cleanliness1')}}">
+                                  <a href="{{asset ('G5-cleanliness1')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -151,7 +151,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--wasting')}}">
+                                  <a href="{{asset ('G5-wasting')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -181,7 +181,7 @@
                              </div>
 
                             <div class="col-sm-4 card-group-row__col">
-                                <a href="{{asset ('topic--friendship')}}">
+                                <a href="{{asset ('G5-friendship')}}">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
                                     
                                     <div class="card-body d-flex flex-column">
@@ -218,7 +218,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--jealousy')}}">  
+                                  <a href="{{asset ('G5-jealousy')}}">  
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -251,7 +251,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                   <a href="{{asset ('topic--reading')}}">
+                                   <a href="{{asset ('G5-reading')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -284,7 +284,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--justice')}}">
+                                  <a href="{{asset ('G5-justice')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -318,7 +318,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--patience')}}">
+                                  <a href="{{asset ('G5-patience')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -352,7 +352,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--honesty')}}">
+                                  <a href="{{asset ('G5-honesty')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -385,7 +385,7 @@
 
                             <div class="col-sm-4 card-group-row__col">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                    <a href="{{asset ('topic--responsibility')}}">
+                                    <a href="{{asset ('G5-responsibility')}}">
                                       <div class="card-body d-flex flex-column">
                                           <div class="d-flex align-items-center">
                                               <div class="flex">
@@ -418,7 +418,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic--technology')}}">
+                                  <a href="{{asset ('G5-technology')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
