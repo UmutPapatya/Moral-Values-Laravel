@@ -34,7 +34,7 @@ Route::view('G3-wasting', 'ages8-9/G3-wasting');
 
 
 Route::view('/ages9-10', 'ages9-10/ages9-10');
-Route::view('KG1-cleanliness1', 'ages9-10/G4-cleanliness1');
+Route::view('G4-cleanliness1', 'ages9-10/G4-cleanliness1');
 Route::view('G4-friendship', 'ages9-10/G4-friendship');
 Route::view('G4-honesty', 'ages9-10/G4-honesty');
 Route::view('G4-jealousy', 'ages9-10/G4-jealousy');
