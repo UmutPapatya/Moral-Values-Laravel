@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 8-9')
+@section('title','Moral-Values Ages 9-10')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -13,7 +13,7 @@
                         </div>
 
                         <div class="page-separator">
-                            <div class="page-separator__text">Ages 8-9</div>
+                            <div class="page-separator__text">Ages 9-10</div>
                         </div>
 
                         <div class="row card-group-row mb-lg-8pt">

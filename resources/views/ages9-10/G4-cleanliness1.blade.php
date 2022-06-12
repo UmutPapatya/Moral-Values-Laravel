@@ -129,7 +129,7 @@
                             </li>
                             <li class="nav-item navbar-list__item">
                                 <i class="material-icons text-muted icon--left">assessment</i>
-                                Ages 8-9
+                                Ages 9-10
                             </li>
                             <li class="nav-item ml-sm-auto text-sm-center flex-column navbar-list__item">
                                 <div class="rating rating-24">
