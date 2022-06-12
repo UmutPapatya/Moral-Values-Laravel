@@ -22,7 +22,8 @@ Route::view('/contact', 'contact');
 Route::view('/ages8-9', 'ages8-9/ages8-9');
 Route::view('G3-schoolrules', 'ages8-9/G3-schoolrules');
 Route::view('G3-cleanliness', 'ages8-9/G3-cleanliness');
-Route::view('G3-cleanliness', 'ages8-9/G3-cleanliness');
+Route::view('G3-responsibility', 'ages8-9/G3-responsibility');
+Route::view('G3-sharing', 'ages8-9/G3-sharing');
 
 
 Route::view('/ages9-10', 'ages9-10/ages9-10');
@@ -33,7 +34,7 @@ Route::view('G4-jealousy', 'ages9-10/G4-jealousy');
 Route::view('G4-justice', 'ages9-10/G4-justice');
 Route::view('G4-patience', 'ages9-10/G4-patience');
 Route::view('G4-reading', 'ages9-10/G4-reading');
-Route::view('G4-respect', 'ages9-10/G4-espect');
+Route::view('G4-respect', 'ages9-10/G4-respect');
 Route::view('G4-respect2', 'ages9-10/G4-respect2');
 Route::view('G4-responsibility', 'ages9-10/G4-responsibility');
 Route::view('G4-schoolrules', 'ages9-10/G4-schoolrules');

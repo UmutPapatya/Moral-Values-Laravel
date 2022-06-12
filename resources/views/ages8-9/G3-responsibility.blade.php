@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 6-7')
+@section('title','Moral-Values Ages 8-9')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="happy"
+                                         alt="Responsibility"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Happy</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Responsibility</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Happy</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Responsibility</span>
 
                                 </p>
                             </div>
@@ -33,13 +33,13 @@
                                 <li class="nav-item">
                                     <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
                                 </li>
-                                <li class="nav-item">
+                               <li class="nav-item">
                                     <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/l4WNrvVjiTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7VUnBJ8bU98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -51,8 +51,10 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade show embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-respnsive-item" src="https://www.youtube.com/embed/B7RS-vLZ1yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
+                            
+                    
+                                <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IzEYos5En_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
@@ -63,6 +65,7 @@
                                         </p>
                                     </div>
                                 </div>
+                             
                             </div>
 
                         </div>
@@ -72,24 +75,31 @@
                 <div class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="d-flex flex-wrap align-items-end mb-16pt">
-                            <h2 class="text-dark flex m-0">Stories about Happy</h2>
+                            <h2 class="text-dark flex m-0">Stories about Responsibility</h2>
                         </div>
                         <div class="bd-example bd-example-tabs">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item">
                                     <a class="btn btn-primary flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Story 1</a>
                                 </li>
-                                <li class="nav-item">
+                               <!-- <li class="nav-item">
                                     <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Story 2</a>
-                                </li>
+                                </li>-->
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            <br> Though his mother warned him of his untidy lifestyle, but Raju was adamant. He thought nothing could happen to him due to his usual habits. One day it happened so that Raju fell very ill – he caught an abdominal infection and was experiencing excruciating pain. The doctor was called. He checked Raju and zeroed on his untidy and unhygienic personality for the infection. The doctor warned him, that if he didn’t change his attitude, then he will keep falling ill throughout his life.
+                                            There once was a farmer who grew the most excellent wheat. Every season he won the award for the best wheat in his county.
+
+                                            A wise woman came to him to ask him about his success.
                                             
-                                            <br>This incident changed Raju and he became a neat and clean boy who always was conscious about his hygiene.
+                                            He told her that the key was Responsibility his best seed with his neighbors so they could plant the seed as well.
+                                            
+                                            The wise woman asked, “How can you share your best wheat seed with your neighbors when they compete with you every year?”
+                                            
+                                            “That’s simple,” the farmer replied. “The wind spreads the pollen from everyone’s wheat and carries it from field to field. If my neighbors grew inferior wheat, cross-pollination would degrade everyone’s wheat, including mine. If I’m to grow the best wheat, I must help my neighbors grow the best wheat as well.”
+                                                                
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -97,12 +107,16 @@
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            The importance of cleanliness in our lives cannot be denied. Maintaining a clean environment is for the health of all humans, as their health completely depends on the atmosphere. A bad environment is solely responsible for spoiling the health of the people around. Dirt and disease go together.                                        </p>
+                                            This is not only excellent advice for growing the best crops, but also great advice for how to live your life.
+
+                                         <br>   If you want to live a meaningful and happy life, help others find happiness.
+                                            
+                                          <br>  Remember: The value of your life is measured by the lives you touch with love, kindness, respect, and hope.                                        </p>
                                     </div>                                </div>
                                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                          bulunacak
+                                            
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -110,8 +124,7 @@
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            The importance of cleanliness in our lives cannot be denied. Maintaining a clean environment is for the health of all humans, as their health completely depends on the atmosphere. A bad environment is solely responsible for spoiling the health of the people around. Dirt and disease go together.                                        </p>
-                                        </p>
+                                            We should think before judging others. Always be polite and learn to see things from others point of view.                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -148,4 +161,5 @@
             </div>
             <!-- // END Header Layout Content -->
 
-    @endsection
+ 
+            @endsection
