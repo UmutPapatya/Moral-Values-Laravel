@@ -151,7 +151,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('G3-wasting')}}">
+                                  <a href="{{asset ('G3-honesty')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -167,8 +167,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Effects of Wasting</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 video</small></p>
+                                                        <div class="card-title">Honesty</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -181,7 +181,7 @@
                              </div>
 
                             <div class="col-sm-4 card-group-row__col">
-                                <a href="{{asset ('G3-friendship')}}">
+                                <a href="{{asset ('G3-respect')}}">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
                                     
                                     <div class="card-body d-flex flex-column">
@@ -199,7 +199,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Friendship</div>
+                                                        <div class="card-title">Love Respect Tolerance</div>
                                                         <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
@@ -218,7 +218,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('G3-schoolsafetyrules')}}">  
+                                  <a href="{{asset ('G3-confidence')}}">  
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -235,8 +235,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">School Safety Rules</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">Confidence</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -252,7 +252,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                   <a href="{{asset ('G3-reading')}}">
+                                   <a href="{{asset ('G3-thanks-sorry')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -268,8 +268,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Importance of Reading</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">Thanks - Sorry </div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -285,7 +285,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('G3-justice')}}">
+                                  <a href="{{asset ('G3-wasting')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -301,7 +301,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Justice and Equality</div>
+                                                        <div class="card-title">Wasting</div>
                                                         <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
@@ -335,8 +335,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Patience</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">-Patience</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -369,8 +369,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Honesty</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">-Honesty</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -403,8 +403,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Responsibility2</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">-Responsibility2</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -436,8 +436,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Eating Healty Food</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 video</small></p>
+                                                        <div class="card-title">-Eating Healty Food</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 video</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -470,8 +470,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Causes and Effects of Jealousy</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <div class="card-title">-Causes and Effects of Jealousy</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
                                             </div>

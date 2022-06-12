@@ -11,12 +11,12 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="respect2"
+                                         alt="respect"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Respect 2</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Love Respect Tolerance </a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
                                     <span class="text-50 small font-weight-bold mr-0pt">Importance of respect</span>
 

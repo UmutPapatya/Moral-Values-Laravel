@@ -24,6 +24,13 @@ Route::view('G3-schoolrules', 'ages8-9/G3-schoolrules');
 Route::view('G3-cleanliness', 'ages8-9/G3-cleanliness');
 Route::view('G3-responsibility', 'ages8-9/G3-responsibility');
 Route::view('G3-sharing', 'ages8-9/G3-sharing');
+Route::view('G3-honesty', 'ages8-9/G3-honesty'); 
+Route::view('G3-respect', 'ages8-9/G3-respect'); 
+Route::view('G3-confidence', 'ages8-9/G3-confidence'); 
+Route::view('G3-thanks-sorry', 'ages8-9/G3-thanks-sorry'); 
+Route::view('G3-wasting', 'ages8-9/G3-wasting'); 
+Route::view('G3-wasting', 'ages8-9/G3-wasting');
+
 
 
 Route::view('/ages9-10', 'ages9-10/ages9-10');
