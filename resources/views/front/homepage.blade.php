@@ -192,47 +192,47 @@
                             <h3 style="color: #FFFFFF;">Last Added</h3>
                             <ul class="line">
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic-reading')}}"><span>IMPORTANCE OF READING</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G4-reading')}}"><span>IMPORTANCE OF READING</span><br></a>
                                    <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-success">Ages 8-9</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic-cleanliness1')}}"><span>CLEANLINESS 1</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G4-cleanliness1')}}"><span>CLEANLINESS 1</span><br></a>
                                     <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-success">Ages 8-9</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic--friendship')}}"><span>FRIENDSHIP</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G5-friendship')}}"><span>FRIENDSHIP</span><br></a>
                                    <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-danger">Ages 10-11</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic--honesty')}}"><span>HONESTY</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G5-honesty')}}"><span>HONESTY</span><br></a>
                                   <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-success">Ages 8-9</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic--justice')}}"><span>JUSTICE AND EQUALITY</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G5-justice')}}"><span>JUSTICE AND EQUALITY</span><br></a>
                                   <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-danger">Ages 10-11</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic--sharing')}}"><span>SHARING</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G5-sharing')}}"><span>SHARING</span><br></a>
                                 <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-danger">Ages 10-11</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic-responsibility')}}.html"><span>RESPONSINILITY</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G4-responsibility')}}"><span>RESPONSINILITY</span><br></a>
                                   <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-success">Ages 8-9</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic-wasting')}}"><span>EFFECT OF WASTING</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G4-wasting')}}"><span>EFFECT OF WASTING</span><br></a>
                                    <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-danger">Ages 8-9</span>
                                 </li>
                                 <li>
-                                    <a style="color: #FFFFFF;" href="{{asset ('topic-friendship')}}"><span>FRIENDSHIP</span><br></a>
+                                    <a style="color: #FFFFFF;" href="{{asset ('G4-friendship')}}"><span>FRIENDSHIP</span><br></a>
                                     <!-- <span>02/02/2021</span>-->
                                     <span class="btn-sm bg-success">Ages 8-9</span>
                                 </li>
