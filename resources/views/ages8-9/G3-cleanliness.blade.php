@@ -11,7 +11,7 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="Cleanliness"
+                                         alt="cleanliness"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">

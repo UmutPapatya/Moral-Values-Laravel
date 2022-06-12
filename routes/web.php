@@ -20,7 +20,8 @@ Route::view('/about', 'about');
 Route::view('/contact', 'contact');
 
 Route::view('/ages8-9', 'ages8-9/ages8-9');
-Route::view('G3-happy', 'ages8-9/G3-happy');
+Route::view('G3-schoolrules', 'ages8-9/G3-schoolrules');
+Route::view('G3-cleanliness', 'ages8-9/G3-cleanliness');
 Route::view('G3-cleanliness', 'ages8-9/G3-cleanliness');
 
 
