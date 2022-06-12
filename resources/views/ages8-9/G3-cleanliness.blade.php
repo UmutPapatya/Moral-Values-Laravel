@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 9-10')
+@section('title','Moral-Values Ages 8-9')
 @section('content')
 
             <!-- Header Layout Content -->
@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="School Rules"
+                                         alt="Cleanliness"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">School Rules</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Cleanliness</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of School Rules</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Cleanliness</span>
 
                                 </p>
                             </div>
@@ -39,7 +39,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uWXPCP8t00M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ENOL1RJ1u4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
@@ -52,8 +52,7 @@
                                     </div>
                                 </div>
                                 <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iQxK-Ah7has" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <br> <br>
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Pp9Wq-PoxWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-white flex m-0">Moral of the Video</h2>
                                     </div>
@@ -70,11 +69,10 @@
 
                     </div>
                 </div>
-            <!--
-                <div class="pb-lg-64pt py-32pt">
+             <div class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="d-flex flex-wrap align-items-end mb-16pt">
-                            <h2 class="text-dark flex m-0">Stories about School Rules</h2>
+                            <h2 class="text-dark flex m-0">Stories about Cleanliness</h2>
                         </div>
                         <div class="bd-example bd-example-tabs">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -88,10 +86,14 @@
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">There were two friends who were walking across a desert. While they were walking they got into an ugly argument and out of anger one of them slapped the other on the face. The one who was slapped, though was hurt he did not said anything and quietly wrote over the sand "I am hurt because today my friend hit me on my face". They resumed walking and kept walking until they came across an oasis. They decided to take bath in the oasis then. While they were taking bath the one who had got slapped started drowning. The other friend came to his rescue and saved him. After he got rescued, he wrote on the stone "Today I was saved by my best friend".
+                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
+                                            Once upon a time, an old man spread rumors that his neighbor was a thief. As a result, the young man was arrested. Days later the young man was proven innocent. After being released, the man felt humiliated as he walked to his home. He sued the old man for wrongly Accusing him.
 
-                                            The other friend asked him, "Why did you write on the sand when I slapped you while you wrote on the stone when I saved you?" Upon this, the other friend replied that its better we write on sand when your friend hurts you as it will be gone with the wind but write it on stone when your friend does something good to you so that it could be engraved forever.
+In court, the old man told the Judge, “They were just comments, didn’t Harm anyone..” The judge, before passing sentence on the case, told the old man, “Write All the things you said about him on a piece of paper. Cut them up and On the way home, throw the pieces of paper out. Tomorrow, come back to Hear the sentence”.
 
+The next day, the judge told the old man, “Before receiving the Sentence, you will have to go out and gather all the pieces of paper That you threw out yesterday”. The old man said, “I can’t do that! The wind must have spreads them and I won’t Know where to find them”.
+
+The judge then replied, “The same way, simple comments may destroy the honor of a man to such an extent that one is not able to fix it. The old man realized his mistake and asked for forgiveness”.
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
@@ -99,30 +101,33 @@
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
+                                            Do not malignant or blame anyone without knowing the fact or a truth. Your words may ruin someone’s reputation without any fault of theirs.
                                         </p>
                                     </div>                                </div>
                                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">Second There were two friends who were walking across a desert. While they were walking they got into an ugly argument and out of anger one of them slapped the other on the face. The one who was slapped, though was hurt he did not said anything and quietly wrote over the sand "I am hurt because today my friend hit me on my face". They resumed walking and kept walking until they came across an oasis. They decided to take bath in the oasis then. While they were taking bath the one who had got slapped started drowning. The other friend came to his rescue and saved him. After he got rescued, he wrote on the stone "Today I was saved by my best friend".
+                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
+                                            Once upon a time, there was a small town. There lived a man by himself who couldn’t see. He was blind. Yet, he carried a lighted lamp with him whenever he went out at night.
 
-                                            The other friend asked him, "Why did you write on the sand when I slapped you while you wrote on the stone when I saved you?" Upon this, the other friend replied that its better we write on sand when your friend hurts you as it will be gone with the wind but write it on stone when your friend does something good to you so that it could be engraved forever.
+One night as he was coming home after having a dinner outside, he came across a group of young travellers. They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him. One of them asked him, “Hey Man! You are blind and can’t see anything! Why do you carry the lamp then?!”
 
+The blind man replied, “Yes, unfortunately, I am blind and I can’t see anything but a lighted lamp which I am carrying is for the people like you who can see. You may not see the blind man coming and end up pushing me. That is why I carry a lighted lamp”.
+
+The group of travellers felt ashamed and apologized for their behaviour.
                                         </p>
                                     </div>
                                     <div class="d-flex flex-wrap align-items-end mb-16pt">
-                                        <h2 class="text-dark flex m-0">Second Moral of the Story</h2>
+                                        <h2 class="text-dark flex m-0">Moral of the Story</h2>
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            Second Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
-                                        </p>
+                                            We should think before judging others. Always be polite and learn to see things from others point of view.                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
 
                 <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
@@ -152,6 +157,6 @@
 
             </div>
             <!-- // END Header Layout Content -->
-
-     
+        
+ 
             @endsection

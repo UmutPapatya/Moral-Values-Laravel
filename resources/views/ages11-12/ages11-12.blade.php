@@ -20,7 +20,7 @@
 
                             <div class="col-sm-4 card-group-row__col">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                    <a href="{{asset ('topic---schoolrules')}}">
+                                    <a href="{{asset ('G6-schoolrules')}}">
                                       <div class="card-body d-flex flex-column">
                                           <div class="d-flex align-items-center">
                                               <div class="flex">
@@ -54,7 +54,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---bulliying')}}">
+                                  <a href="{{asset ('G6-bulliying')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -88,7 +88,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---timemanagement')}}">
+                                  <a href="{{asset ('G6-timemanagement')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -122,7 +122,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---reading')}}">
+                                  <a href="{{asset ('G6-reading')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -156,7 +156,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---responsibility')}}">
+                                  <a href="{{asset ('G6-responsibility')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -189,7 +189,7 @@
 
                             <div class="col-sm-4 card-group-row__col">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                    <a href="{{asset ('topic---wasting')}}">
+                                    <a href="{{asset ('G6-wasting')}}">
                                       <div class="card-body d-flex flex-column">
                                           <div class="d-flex align-items-center">
                                               <div class="flex">
@@ -221,7 +221,7 @@
 
                             <div class="col-sm-4 card-group-row__col">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                    <a href="{{asset ('topic---family')}}">
+                                    <a href="{{asset ('G6-family')}}">
                                       <div class="card-body d-flex flex-column">
                                           <div class="d-flex align-items-center">
                                               <div class="flex">
@@ -255,7 +255,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---helping')}}">
+                                  <a href="{{asset ('G6-helping')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -289,7 +289,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('topic---cleanliness')}}">
+                                  <a href="{{asset ('G6-cleanliness')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
