@@ -28,12 +28,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/react_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-01.png" width="40" height="40" alt="01" class="rounded">
+
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -61,12 +57,7 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/devops_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images//numbers/n-02.png" width="40" height="40" alt="Angular" class="rounded">
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -93,12 +84,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/redis_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-03.png" width="40" height="40" alt="Angular" class="rounded">
+                                                   
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -125,12 +112,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/mailchimp_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-04.png" width="40" height="40" alt="Angular" class="rounded">
+                                                       
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -158,12 +141,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/angular_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-05.png" width="40" height="40" alt="Angular" class="rounded">
+                                                     
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -190,12 +169,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/swift_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-06.png" width="40" height="40" alt="Angular" class="rounded">
+ 
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -225,12 +200,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/react_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-07.png" width="40" height="40" alt="Angular" class="rounded">
+                                              
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -258,12 +229,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/devops_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-08.png" width="40" height="40" alt="Angular" class="rounded">
+                                                       
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -291,12 +258,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/redis_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-09.png" width="40" height="40" alt="Angular" class="rounded">
+                                                     
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -325,12 +288,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/mailchimp_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-10.png" width="40" height="40" alt="Angular" class="rounded">
+                                                        
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -359,12 +318,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/angular_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-11.png" width="40" height="40" alt="Angular" class="rounded">
+                                                   
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -392,12 +347,8 @@
                                                   <div class="d-flex align-items-center">
                                                       <div class="rounded mr-12pt z-0 o-hidden">
                                                           <div class="overlay">
-                                                              <img src="{{asset('front/')}}/public/images/paths/swift_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                              <span class="overlay__content overlay__content-transparent">
-                                                                          <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                              <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                          </span>
-                                                                      </span>
+                                                              <img src="{{asset('front/')}}/public/images/numbers/n-12.png" width="40" height="40" alt="Angular" class="rounded">
+                                                           
                                                           </div>
                                                       </div>
                                                       <div class="flex">
@@ -425,12 +376,8 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/paths/react_40x40@2x.png" width="40" height="40" alt="Angular" class="rounded">
-                                                            <span class="overlay__content overlay__content-transparent">
-                                                                        <span class="overlay__action d-flex flex-column text-center lh-1">
-                                                                            <small class="h6 small text-white mb-0" style="font-weight: 500;">80%</small>
-                                                                        </span>
-                                                                    </span>
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-13.png" width="40" height="40" alt="Angular" class="rounded">
+                                                        
                                                         </div>
                                                     </div>
                                                     <div class="flex">
