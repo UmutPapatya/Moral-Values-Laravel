@@ -58,6 +58,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images//numbers/n-02.png" width="40" height="40" alt="Angular" class="rounded">
+                                                           
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -85,7 +86,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-03.png" width="40" height="40" alt="Angular" class="rounded">
-                                                   
+                                                        
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -113,7 +114,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-04.png" width="40" height="40" alt="Angular" class="rounded">
-                                                       
+                                                            
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -142,7 +143,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-05.png" width="40" height="40" alt="Angular" class="rounded">
-                                                     
+                                                           
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -170,7 +171,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-06.png" width="40" height="40" alt="Angular" class="rounded">
- 
+                                                      
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -201,7 +202,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-07.png" width="40" height="40" alt="Angular" class="rounded">
-                                              
+                                                          
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -230,7 +231,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-08.png" width="40" height="40" alt="Angular" class="rounded">
-                                                       
+                                                            
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -259,7 +260,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-09.png" width="40" height="40" alt="Angular" class="rounded">
-                                                     
+                                                           
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -289,7 +290,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-10.png" width="40" height="40" alt="Angular" class="rounded">
-                                                        
+                                                            
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -319,7 +320,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-11.png" width="40" height="40" alt="Angular" class="rounded">
-                                                   
+                                                           
                                                         </div>
                                                     </div>
                                                     <div class="flex">
@@ -377,7 +378,7 @@
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
                                                             <img src="{{asset('front/')}}/public/images/numbers/n-13.png" width="40" height="40" alt="Angular" class="rounded">
-                                                        
+                                                      
                                                         </div>
                                                     </div>
                                                     <div class="flex">
