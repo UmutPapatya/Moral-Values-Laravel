@@ -92,7 +92,7 @@
                         <!-- Navbar Brand -->
                         <a href="/"
                            class="navbar-brand mr-16pt">
-                            <!-- <img class="navbar-brand-icon" src="../../public/images/logo/white-100@2x.png" width="30" alt="Luma"> -->
+                            <!-- <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/files/logo.png" width="30" alt="Luma"> -->
                             <!-- <img width="150" src="../public/images/logo/logo2.png" alt="">-->
                             <h2 class="text-white">Mvalues</h2>
                         </a>
