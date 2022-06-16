@@ -181,32 +181,6 @@
                     </div>
                 </div>
 
-
-                <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
-                    <div class="container page__container">
-                        <ul class="nav navbar-nav flex align-items-sm-center">
-                            <li class="nav-item navbar-list__item">
-                                <i class="material-icons text-muted icon--left">schedule</i>
-                                6m 05s
-                            </li>
-                            <li class="nav-item navbar-list__item">
-                                <i class="material-icons text-muted icon--left">assessment</i>
-                                Ages 8-9
-                            </li>
-                            <li class="nav-item ml-sm-auto text-sm-center flex-column navbar-list__item">
-                                <div class="rating rating-24">
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star_border</i></div>
-                                </div>
-                                <p class="lh-1 mb-0"><small class="text-muted">20 ratings</small></p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
             </div>
             <!-- // END Header Layout Content -->
 
