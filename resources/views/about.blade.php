@@ -100,9 +100,8 @@
                         <!-- Navbar Brand -->
                         <a href="/"
                         class="navbar-brand mr-16pt">
-                         <!-- <img class="navbar-brand-icon" src="public/images/logo/white-100@2x.png" width="30" alt="Luma"> -->
-                         <!-- <img width="150" src="Public/images/logo/logo2.png" alt="">-->
-                         <h2 class="text-white d-block">Mvalues</h2>
+                        <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" alt="Luma">
+                        <!-- <img width="150" src="Public/images/logo/logo2.png" alt="">-->
                         </a>
 
                         <ul class="nav navbar-nav d-none d-sm-flex flex justify-content-start ml-8pt">
