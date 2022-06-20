@@ -17,10 +17,6 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto:400,500%7CExo+2:600&display=swap"
           rel="stylesheet">
 
-    <!-- Preloader -->
-    <link type="text/css"
-          href="{{asset('front/')}}/public/vendor/spinkit.css"
-          rel="stylesheet">
 
     <!-- Perfect Scrollbar -->
     <link type="text/css"
@@ -37,11 +33,6 @@
           href="{{asset('front/')}}/public/css/fontawesome.css"
           rel="stylesheet">
 
-    <!-- Preloader -->
-    <link type="text/css"
-          href="{{asset('front/')}}/public/css/preloader.css"
-          rel="stylesheet">
-
     <!-- App CSS -->
     <link type="text/css"
           href="{{asset('front/')}}/public/css/app.css"
@@ -55,16 +46,6 @@
     </head>
 
     <body class="layout-sticky-subnav layout-default ">
-
-        <div class="preloader">
-            <div class="sk-chase">
-                <div class="sk-chase-dot"></div>
-                <div class="sk-chase-dot"></div>
-                <div class="sk-chase-dot"></div>
-                <div class="sk-chase-dot"></div>
-                <div class="sk-chase-dot"></div>
-                <div class="sk-chase-dot"></div>
-            </div>
 
             <!-- <div class="sk-bounce">
     <div class="sk-bounce-dot"></div>
@@ -100,7 +81,7 @@
                         <!-- Navbar Brand -->
                         <a href="/"
                         class="navbar-brand mr-16pt">
-                        <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" alt="Luma">
+                        <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" alt="Moral Values">
                         <!-- <img width="150" src="Public/images/logo/logo2.png" alt="">-->
                         </a>
 
