@@ -30,7 +30,7 @@
                    
                     <div class="container page__container">
                         <div class="row">
-                            <div class="col-lg-7 bd-example bd-example-tabs">
+                            <div class="col-lg-8 bd-example bd-example-tabs">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                     <li class="nav-item">
                                         <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
@@ -78,38 +78,70 @@
                                 </div>  
                             </div>
                             
-                            <div class="col-lg-5 page-nav">
+                            <div class="col-lg-4 ">
                                 <div class="page-section">
                                     <div class="page-nav__content">
-                                       
-                                            <h4 class="text-white flex mb-16pt  ">RESOURCES</h4>
-                                        
-                                        <!-- <h4 class="mb-16pt">Table of contents</h4> -->
-                                        <div class="row mb-32pt">
-                                            <div class="col-lg-10 d-flex align-items-center">
-                                                <div class="flex" style="max-width: 100%">
-                    
-                                                    <div class="avatar avatar-lg mr-8pt">
-                                                        <a href="#"> <img src="{{asset('front/')}}/public/images/files/file-01.png" alt="Avatar" class="avatar-img rounded"></a>
-                                                    </div>
-                                                    <div class="avatar avatar-lg mr-8pt mb-16pt">
-                                                        <a href="#">  <img src="{{asset('front/')}}/public/images/files/file-02.png" alt="Avatar" class="avatar-img rounded"></a>
-                                                    </div>
-                                                    <div class="avatar avatar-lg mr-8pt mb-16pt">
-                                                        <a href="#"> <img src="{{asset('front/')}}/public/images/files/file-03.png" alt="Avatar" class="avatar-img rounded"></a>
-                                                    </div>
-                                                    <div class="avatar avatar-lg mr-8pt mb-16pt">
-                                                        <a href="#">  <img src="{{asset('front/')}}/public/images/files/file-04.png" alt="Avatar" class="avatar-img rounded"></a>
-                                                    </div>
-                                                    <div class="avatar avatar-lg mr-8pt mb-16pt">
-                                                        <a href="#">  <img src="{{asset('front/')}}/public/images/files/file-05.png" alt="Avatar" class="avatar-img rounded"></a>
-                                                    </div>
-                                                    <div class="avatar avatar-lg mr-8pt mb-16pt">
-                                                        <a href="#">  <img src="{{asset('front/')}}/public/images/files/file-06.png" alt="Avatar" class="avatar-img rounded"></a>
-                                                    </div>
-                    
+                                      <br>
+                                        <div class="row align-items-stretch">
+                                            <div class="col-lg-12 d-flex align-items-stretch justify-content-strech">
+                                            <div class="card w-100 bg-transparent border-light">
+                                                <div class="card-body">
+                                                <h4 class="card-title text-white">Resources</h4>
+                                                <table class="table browser mt-4 no-border">
+                                                    <tbody>
+                                                    <tr>
+                                                        <td style="width: 40px">
+                                                        <a target="_blank" href="https://drive.google.com/file/d/1R2eQnnqOCh3Rd7pawJ9t85YtF7FO_Nc2/view?usp=sharing">
+                                                        <img src="{{asset('front/')}}/public/images/files/file-1.png" alt="logo"></a>
+                                                        </td>
+                                                        <td class="text-white">Banner</td>
+                                                        <td align="right">
+                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        </td></a>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 40px">
+                                                        <img src="{{asset('front/')}}/public/images/files/file-2.png" alt="logo">
+                                                        </td>
+                                                        <td class="text-white">Stories</td>
+                                                        <td align="right">
+                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 40px">
+                                                        <img src="{{asset('front/')}}/public/images/files/file-3.png" alt="logo">
+                                                        </td>
+                                                        <td class="text-white">Presentation</td>
+                                                        <td align="right">
+                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 40px">
+                                                        <img src="{{asset('front/')}}/public/images/files/file-4.png" alt="logo">
+                                                        </td>
+                                                        <td class="text-white">Pictures</td>
+                                                        <td align="right">
+                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 40px">
+                                                        <img src="{{asset('front/')}}/public/images/files/file-5.png" alt="logo">
+                                                        </td>
+                                                        <td class="text-white">Music</td>
+                                                        <td align="right">
+                                                        <span class="badge badge-dark">6 Pages</span>
+                                                        </td>
+                                                    </tr>
+                                                    </tbody>
+                                                </table>
                                                 </div>
                                             </div>
+                                            </div>
+                                        
+                                        </div>
                                         </div>
                                     </div>
 
@@ -143,7 +175,7 @@
 
                                             A wise woman came to him to ask him about his success.
                                             
-                                            He told her that the key was Responsibility his best seed with his neighbors so they could plant the seed as well.
+                                            He told her that the key was to share his best seed with his neighbors so they could plant the seed as well.
                                             
                                             The wise woman asked, “How can you share your best wheat seed with your neighbors when they compete with you every year?”
                                             
