@@ -97,7 +97,7 @@
                         </p>
                     </div>
 
-                    <div class="row card-group-row align-items-center">
+                    <div class="row card-group-row justify-content-center">
 
                         <div class="col-md-6 col-xl-3 card-group-row__col">
                             <div class="card card-group-row__card">

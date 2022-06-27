@@ -20,15 +20,15 @@
             </div>
     
             <!-- // END Footer -->
-                       <!-- <a
-                        class="btn btn-primary btn-rounded floatt"
-                        style="background-color: #25d366;"
-                        href="#!"
-                        role="button"><i class="fab fa-whatsapp"></i
-                    ></a>-->
+            <a
+            class="btn btn-primary btn-rounded floatt"
+            style="background-color: #25d366;"
+            href="https://wa.me/+9647500556437"
+            role="button"><i class="fab fa-whatsapp"></i
+        ></a>
 
-                    <a class="btn btn-light floatt2 " style="background-color: #25d366;" href="https://wa.me/+9647500556437" target="_blank" role="button">
-                        <i class="fab fa-2x fa-whatsapp pr-1"></i>Contact us</a>
+      <!--   <a class="btn btn-light floatt2 " style="background-color: #25d366;" href="https://wa.me/+9647500556437" target="_blank" role="button">
+            <i class="fab fa-2x fa-whatsapp pr-1"></i>Contact us</a>-->
     
         </div>
         <!-- // END Header Layout -->
