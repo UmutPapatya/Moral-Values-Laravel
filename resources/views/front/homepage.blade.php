@@ -83,7 +83,7 @@
                         <!-- Navbar Brand -->
                         <a href="/"
                         class="navbar-brand mr-16pt">
-                          <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" alt="Moral Values">
+                          <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_2@0.5x.png" width="80px" alt="Moral Values">
                          <!-- <img width="150" src="Public/images/logo/logo2.png" alt="">-->
                          
                      </a>
@@ -272,9 +272,32 @@
                         </div>
                     </div>
                 </div>
+                
             </div>
             
-            
+            <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
+                <div class="container page__container">
+                    <ul class="nav navbar-nav flex align-items-sm-center">
+
+                        <li class="nav-item ml-sm-auto text-sm-center flex-column navbar-list__item">
+                            <p class="lh-1 mb-0" style="font-size: 16px;">Follow us</p>
+                        </li>
+                        <li class="nav-item flex-column navbar-list__item">
+                            <!-- Facebook -->
+                            <i class="fab fa-2x fa-facebook-f" style="color: #3b5998;"></i>   
+                        </li>
+                        <li class="nav-item flex-column navbar-list__item">
+                            <!-- Facebook -->
+                            <i class="fab fa-2x fa-twitter" style="color: #55acee;"></i>
+                        </li>
+                        <li class="nav-item flex-column navbar-list__item">
+                        <!-- Instagram -->
+                        <i class="fab fa-2x fa-instagram" style="color: #ac2bac;"></i>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+
             <!-- // END Header Layout Content -->         
                      
                      <!-- Footer -->
@@ -295,9 +318,20 @@
                                    class="text-70 text-underline small">Contact us</a>
                             </p>
                             <p class="text-50 small mt-n1 mb-0">Copyright 2021 &copy; All rights reserved.</p>
+                       
                         </div>
                     </div>
-            
+
+                   <!-- <a
+                        class="btn btn-primary btn-rounded floatt"
+                        style="background-color: #25d366;"
+                        href="#!"
+                        role="button"><i class="fab fa-whatsapp"></i
+                    ></a>-->
+
+                   <a class="btn btn-light floatt2 " style="background-color: #25d366;" href="https://wa.me/+9647500556437" target="_blank" role="button">
+                    <i class="fab fa-2x fa-whatsapp pr-1"></i>Contact us</a>
+
                     <!-- // END Footer -->
             
                 </div>

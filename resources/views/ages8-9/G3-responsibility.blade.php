@@ -84,9 +84,9 @@
                                       <br>
                                         <div class="row align-items-stretch">
                                             <div class="col-lg-12 d-flex align-items-stretch justify-content-strech">
-                                            <div class="card w-100 bg-transparent border-light">
+                                            <div class="card w-100 bg-light border-light">
                                                 <div class="card-body">
-                                                <h4 class="card-title text-white">Resources</h4>
+                                                <h4 class="card-title ">Resources</h4>
                                                 <table class="table browser mt-4 no-border">
                                                     <tbody>
                                                     <tr>
@@ -94,43 +94,43 @@
                                                         <a target="_blank" href="https://drive.google.com/file/d/1R2eQnnqOCh3Rd7pawJ9t85YtF7FO_Nc2/view?usp=sharing">
                                                         <img src="{{asset('front/')}}/public/images/files/file-1.png" alt="logo"></a>
                                                         </td>
-                                                        <td class="text-white">Banner</td>
+                                                        <td class="">Banner</td>
                                                         <td align="right">
-                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        <span class="badge badge-success">6 Pages</span>
                                                         </td></a>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
                                                         <img src="{{asset('front/')}}/public/images/files/file-2.png" alt="logo">
                                                         </td>
-                                                        <td class="text-white">Stories</td>
+                                                        <td class="">Stories</td>
                                                         <td align="right">
-                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        <span class="badge badge-info">6 Pages</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
                                                         <img src="{{asset('front/')}}/public/images/files/file-3.png" alt="logo">
                                                         </td>
-                                                        <td class="text-white">Presentation</td>
+                                                        <td class="">Presentation</td>
                                                         <td align="right">
-                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        <span class="badge badge-primary">6 Pages</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
                                                         <img src="{{asset('front/')}}/public/images/files/file-4.png" alt="logo">
                                                         </td>
-                                                        <td class="text-white">Pictures</td>
+                                                        <td class="">Pictures</td>
                                                         <td align="right">
-                                                        <span class="badge badge-danger">6 Pages</span>
+                                                        <span class="badge badge-warning">6 Pages</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
                                                         <img src="{{asset('front/')}}/public/images/files/file-5.png" alt="logo">
                                                         </td>
-                                                        <td class="text-white">Music</td>
+                                                        <td class="">Music</td>
                                                         <td align="right">
                                                         <span class="badge badge-dark">6 Pages</span>
                                                         </td>

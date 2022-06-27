@@ -81,7 +81,7 @@
                         <!-- Navbar Brand -->
                         <a href="/"
                         class="navbar-brand mr-16pt">
-                        <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" alt="Moral Values">
+                        <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" width="80px" alt="Moral Values">
                         <!-- <img width="150" src="Public/images/logo/logo2.png" alt="">-->
                         </a>
 
@@ -169,7 +169,16 @@
                 <p class="text-50 small mt-n1 mb-0">Copyright 2021 &copy; All rights reserved.</p>
             </div>
         </div>
+                   <!-- <a
+                        class="btn btn-primary btn-rounded floatt"
+                        style="background-color: #25d366;"
+                        href="#!"
+                        role="button"><i class="fab fa-whatsapp"></i
+                    ></a>-->
 
+                    <a class="btn btn-light floatt2 " style="background-color: #25d366;" href="https://wa.me/+9647500556437" target="_blank" role="button">
+                        <i class="fab fa-2x fa-whatsapp pr-1"></i>Contact us</a>
+    
         <!-- // END Footer -->
 
     </div>

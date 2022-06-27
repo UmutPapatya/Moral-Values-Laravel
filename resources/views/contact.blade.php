@@ -89,7 +89,7 @@
 
                 <div class="container page__container">
 
-                    <div class=" text-center">
+                    <div class="text-center">
                         <h2>Meet our leadership team</h2>
                         <p class="mx-auto text-100" style="font-size: 20px; line-height: 2.0;">
                             Our talented team of executives have come together with one goal: to help the students or to your child to understand the morals of life.                 
@@ -97,7 +97,7 @@
                         </p>
                     </div>
 
-                    <div class="row card-group-row">
+                    <div class="row card-group-row align-items-center">
 
                         <div class="col-md-6 col-xl-3 card-group-row__col">
                             <div class="card card-group-row__card">
@@ -158,34 +158,6 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-xl-3 card-group-row__col">
-                            <div class="card card-group-row__card">
-                                <div class="card-header d-flex align-items-center">
-                                </div>
-                                <div class="card-body flex text-center d-flex flex-column align-items-center justify-content-center">
-                                    <span class="avatar avatar-xl overlay js-overlay overlay--primary rounded-circle p-relative o-hidden mb-16pt" data-trigger="hover" data-domfactory-upgraded="overlay">
-                                        <img src="{{asset('front/')}}/public/images/people/Abdullah-Photo-1.jpg" alt="teacher" class="avatar-img">
-                                        <span class="overlay__content"><i class="overlay__action material-icons icon-40pt">face</i></span>
-                                    </span>
-                                    <div class="flex">
-
-                                        <h5 class="mb-0">ABDULLAH AYDIN</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-                                        <br><span class="small text-uppercase text-muted">Developer</span>
-                                    </div>
-                                    <div class="d-flex align-items-center mt-8pt">
-                                        <!-- Facebook -->
-                                        <a style="color: #3b5998;" href="#" class="fab fa-facebook-square font-size-24pt mr-8pt"></a>
-                                        <!-- Twitter -->
-                                        <a style="color: #55acee;" href="#" class="fab fa-twitter-square font-size-24pt mr-8pt"></a>
-                                        <!-- Google -->
-                                        <a style="color: #ffffff; background-color: #dd4b39;" href="mailto:abdullah.aydin@moral-values.com" class="fab fa-google font-size-20pt mr-8pt"></a>
-                                        <!-- Instagram -->
-                                        <a style="color: #ac2bac;" href="#" class="fab fa-instagram-square font-size-24pt"></a>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-md-6 col-xl-3 card-group-row__col">
                             <div class="card card-group-row__card">
                                 <div class="card-header d-flex align-items-center">

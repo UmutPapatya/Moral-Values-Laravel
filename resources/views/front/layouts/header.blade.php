@@ -75,7 +75,7 @@
                         <!-- Navbar Brand -->
                         <a href="/"
                            class="navbar-brand mr-16pt">
-                           <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" alt="Moral Values">
+                           <img class="navbar-brand-icon" src="{{asset('front/')}}/public/images/logo/logo_3@0.5x.png" width="80px" alt="Moral Values">
                            <!-- <img width="150" src="../public/images/logo/logo2.png" alt="">-->
                         </a>
 
