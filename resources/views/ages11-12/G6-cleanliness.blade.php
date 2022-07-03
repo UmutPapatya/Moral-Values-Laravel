@@ -25,48 +25,61 @@
                         </div>
                     </div>
                 </div>
-                <div style="background-color: #5567ff" class="pb-lg-64pt py-32pt">
+                <div style="background-color: #539cb5" class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
-
-                        <div class="bd-example bd-example-tabs">
-                            <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                        <div class="row">
+                            <div class="col-lg-9 bd-example bd-example-tabs">
+                                <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
+                                    </li>
                                 <li class="nav-item">
-                                    <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
-                                </li>
-                            </ul>
-                            <div class="tab-content" id="pills-tabContent">
-                                <div class="tab-pane fade active show embed-responsive embed-responsive-16by9" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B-nEYsyRlYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <br> <br>
-                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
-                                        <h2 class="text-white flex m-0">Moral of the Video</h2>
+                                        <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
+                                    </li>
+                                </ul>
+                                <div class="tab-content" id="pills-tabContent">
+                                    <div class="tab-pane fade active show" id="pills-video1">
+                                        <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt" >
+                                            <div class="player embed-responsive-item">
+                                                <div class="player__embed">
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B-nEYsyRlYo" allowfullscreen=""></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                     <!--  <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                            <h2 class="text-white flex m-0">Moral of the Video</h2>
+                                        </div>    
+                                        <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
+                                            <p class="hero__lead measure-hero-lead text-white mb-24pt">
+                                                Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
+                                            </p>
+                                        </div>-->
                                     </div>
-
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-white mb-24pt">
-                                            Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
-                                        </p>
+                    
+                                    <div class="tab-pane fade" id="pills-video2">
+                                        <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt">
+                                            <div class="player embed-responsive-item">
+                                                <div class="player__embed">
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-DEc16dEMns?list=PLZ4sOGXTWw8HNJUFcMOwa4HqSeWm3Kxi5" allowfullscreen=""></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!--     <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                            <h2 class="text-white flex m-0">Moral of the Video 2</h2>
+                                        </div>    
+                                        <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
+                                            <p class="hero__lead measure-hero-lead text-white mb-24pt">
+                                                Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
+                                            </p>
+                                        </div>-->
                                     </div>
-                                </div>
-                                <div class="tab-pane fade embed-responsive embed-responsive-16by9" id="pills-video2" role="tabpanel" aria-labelledby="pills-video2-tab">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-DEc16dEMns?list=PLZ4sOGXTWw8HNJUFcMOwa4HqSeWm3Kxi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                    <br> <br>
-                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
-                                        <h2 class="text-white flex m-0">Moral of the Video</h2>
-                                    </div>
-
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-white mb-24pt">
-                                            Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
-                                        </p>
-                                    </div>
-                                </div>
+                                </div>  
                             </div>
-
+                            
+                            <div class="col-lg-3">
+                       
+                            </div>            
                         </div>
-
                     </div>
                 </div>
              <!--   <div class="pb-lg-64pt py-32pt">
