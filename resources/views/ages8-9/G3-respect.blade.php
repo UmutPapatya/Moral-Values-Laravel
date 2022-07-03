@@ -26,11 +26,9 @@
                     </div>
                 </div>
                 <div style="background-color: #539cb5" class="pb-lg-64pt py-32pt">
-                   
-                   
                     <div class="container page__container">
                         <div class="row">
-                            <div class="col-lg-7 bd-example bd-example-tabs">
+                            <div class="col-lg-8 bd-example bd-example-tabs">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                     <li class="nav-item">
                                         <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
@@ -48,16 +46,16 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                     <!--  <div class="d-flex flex-wrap align-items-end mb-16pt">
                                             <h2 class="text-white flex m-0">Moral of the Video</h2>
                                         </div>    
                                         <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                             <p class="hero__lead measure-hero-lead text-white mb-24pt">
                                                 Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                             </p>
-                                        </div>
+                                        </div>-->
                                     </div>
-
+                    
                                     <div class="tab-pane fade" id="pills-video2">
                                         <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt">
                                             <div class="player embed-responsive-item">
@@ -66,87 +64,23 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                    <!--     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                             <h2 class="text-white flex m-0">Moral of the Video 2</h2>
                                         </div>    
                                         <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                             <p class="hero__lead measure-hero-lead text-white mb-24pt">
                                                 Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                             </p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>  
                             </div>
                             
-                            <div class="col-lg-5 page-nav">
-                                <div class="page-section">
-                                    <div class="page-nav__content">
-                                       
-                                            <h4 class="text-white flex mb-16pt  ">RESOURCES</h4>
-                                        
-                                        <!-- <h4 class="mb-16pt">Table of contents</h4> -->
-                                        <div class="row mb-32pt">
-                                            <div class="col-md">
-                                               
-                                                    <div class="card-body">
-                                                    
-                    
-                                                            <div class="card">
-                                                                <div class="card-body media align-items-center">
-                                                                    <div class="media-left mr-3">
-                                                                        <div class="avatar">
-                                                                            <img src="{{asset('front/')}}/public/images/files/file-01.png" alt="Avatar" class="avatar-img rounded-circle">
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="media-body">
-                                                                        <strong>Jenell D. Matney</strong>
-                                                                    </div>
-                                                                   
-                                                                </div>
-                                                            </div>
-                    
-                                                            <div class="card">
-                                                                <div class="card-body media align-items-center">
-                                                                    <div class="media-left mr-3">
-                                                                        <div class="avatar">
-                                                                            <img src="{{asset('front/')}}/public/images/files/file-02.png" alt="Avatar" class="avatar-img rounded-circle">
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="media-body">
-                                                                        <strong>Sherri J. Cardenas</strong>
-                                                                    </div>
-                                                                    
-                                                                </div>
-                                                            </div>
-                    
-                                                            <div class="card">
-                                                                <div class="card-body media align-items-center">
-                                                                    <div class="media-left mr-3">
-                                                                        <div class="avatar">
-                                                                            <img src="{{asset('front/')}}/public/images/files/file-03.png" alt="Avatar" class="avatar-img rounded-circle">
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="media-body">
-                                                                        <strong>Joseph S. Ferland</strong>
-                                                                    </div>
-                                                                  
-                                                                </div>
-                                                            </div>
-                    
-                                                        </div>
-                                                    </div>
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
+                            <div class="col-lg-4 ">
+                       
                             </div>            
                         </div>
                     </div>
-
-                
-
                 </div>
                 <div class="pb-lg-64pt py-32pt">
                     <div class="container page__container">

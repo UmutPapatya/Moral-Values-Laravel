@@ -471,6 +471,28 @@
                     </div>
                 </div>
             </div>
+            <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
+                <div class="container page__container">
+                    <ul class="nav navbar-nav flex align-items-sm-center">
+
+                        <li class="nav-item ml-sm-auto text-sm-center flex-column navbar-list__item">
+                            <p class="lh-1 mb-0" style="font-size: 16px;">Follow us</p>
+                        </li>
+                        <li class="nav-item flex-column navbar-list__item">
+                            <!-- Facebook -->
+                            <i class="fab fa-2x fa-facebook-f" style="color: #3b5998;"></i>   
+                        </li>
+                        <li class="nav-item flex-column navbar-list__item">
+                            <!-- Facebook -->
+                            <i class="fab fa-2x fa-twitter" style="color: #55acee;"></i>
+                        </li>
+                        <li class="nav-item flex-column navbar-list__item">
+                        <!-- Instagram -->
+                        <i class="fab fa-2x fa-instagram" style="color: #ac2bac;"></i>
+                    </li>
+                    </ul>
+                </div>
+            </div>
             <!-- // END Header Layout Content -->
 
            <!-- Footer -->

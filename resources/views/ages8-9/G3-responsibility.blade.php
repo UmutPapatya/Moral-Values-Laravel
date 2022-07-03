@@ -25,9 +25,7 @@
                         </div>
                     </div>
                 </div>
-                <div style="background-color: #539cb5" class="pb-lg-64pt py-32pt">
-                   
-                   
+                <div style="background-color: #539cb5" class="pb-lg-64pt py-32pt">                              
                     <div class="container page__container">
                         <div class="row">
                             <div class="col-lg-8 bd-example bd-example-tabs">

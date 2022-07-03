@@ -25,7 +25,7 @@
                         </div>
                     </div>
                 </div>
-                <div style="background-color: #5567ff" class="pb-lg-64pt py-32pt">
+                <div style="background-color: #539cb5" class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="row">
                             <div class="col-lg-8 bd-example bd-example-tabs">
@@ -46,14 +46,14 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                     <!--  <div class="d-flex flex-wrap align-items-end mb-16pt">
                                             <h2 class="text-white flex m-0">Moral of the Video</h2>
                                         </div>    
                                         <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                             <p class="hero__lead measure-hero-lead text-white mb-24pt">
                                                 Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                             </p>
-                                        </div>
+                                        </div>-->
                                     </div>
 
                                     <div class="tab-pane fade" id="pills-video2">
@@ -64,14 +64,14 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                    <!--     <div class="d-flex flex-wrap align-items-end mb-16pt">
                                             <h2 class="text-white flex m-0">Moral of the Video 2</h2>
                                         </div>    
                                         <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                             <p class="hero__lead measure-hero-lead text-white mb-24pt">
                                                 Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                             </p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>  
                             </div>
@@ -178,14 +178,15 @@ The next day the same thing happened, even though Andy was much more tired from 
 ... can you guess where Tubby slept that night? :-))
                                         </p>
                                     </div>
-                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
+                              <!--       <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-dark flex m-0">Moral of the Story</h2>
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
                                             Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                         </p>
-                                    </div>                                </div>
+                                    </div> -->                               
+                                </div>
                                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">Second There were two friends who were walking across a desert. While they were walking they got into an ugly argument and out of anger one of them slapped the other on the face. The one who was slapped, though was hurt he did not said anything and quietly wrote over the sand "I am hurt because today my friend hit me on my face". They resumed walking and kept walking until they came across an oasis. They decided to take bath in the oasis then. While they were taking bath the one who had got slapped started drowning. The other friend came to his rescue and saved him. After he got rescued, he wrote on the stone "Today I was saved by my best friend".
@@ -194,46 +195,19 @@ The next day the same thing happened, even though Andy was much more tired from 
 
                                         </p>
                                     </div>
-                                    <div class="d-flex flex-wrap align-items-end mb-16pt">
+                                   <!--  <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-dark flex m-0">Second Moral of the Story</h2>
                                     </div>
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
                                         <p class="hero__lead measure-hero-lead text-dark mb-24pt">
                                             Second Your friend always sees the brighter side of you! No matter what your friend will always come to rescue you be it any circumstance!
                                         </p>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-                <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
-                    <div class="container page__container">
-                        <ul class="nav navbar-nav flex align-items-sm-center">
-                            <li class="nav-item navbar-list__item">
-                                <i class="material-icons text-muted icon--left">schedule</i>
-                                6m 05s
-                            </li>
-                            <li class="nav-item navbar-list__item">
-                                <i class="material-icons text-muted icon--left">assessment</i>
-                                Ages 8-9
-                            </li>
-                            <li class="nav-item ml-sm-auto text-sm-center flex-column navbar-list__item">
-                                <div class="rating rating-24">
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star</i></div>
-                                    <div class="rating__item"><i class="material-icons">star_border</i></div>
-                                </div>
-                                <p class="lh-1 mb-0"><small class="text-muted">20 ratings</small></p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
             </div>
             <!-- // END Header Layout Content -->
 
