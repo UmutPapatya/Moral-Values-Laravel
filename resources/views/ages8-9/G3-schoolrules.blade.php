@@ -90,7 +90,7 @@
                                                     <tr>
                                                         <td style="width: 40px">
                                                         <a target="_blank" href="https://drive.google.com/file/d/1R2eQnnqOCh3Rd7pawJ9t85YtF7FO_Nc2/view?usp=sharing">
-                                                        <img src="{{asset('front/')}}/public/images/files/file-1.png" alt="logo"></a>
+                                                        <img src="{{asset('front/')}}/public/images/files/pdffile.png" alt="logo"></a>
                                                         </td>
                                                         <td class="">Banner</td>
                                                         <td align="right">
@@ -99,25 +99,27 @@
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
-                                                        <img src="{{asset('front/')}}/public/images/files/file-2.png" alt="logo">
+                                                        <a target="_blank" href="https://docs.google.com/presentation/d/1_alJWcNmlH4c-uaeiKCx0lVDsv2tTSId/edit?usp=sharing&ouid=100744614925055123462&rtpof=true&sd=true">
+                                                        <img src="{{asset('front/')}}/public/images/files/pptfile.png" alt="logo"></a>
                                                         </td>
-                                                        <td class="">Stories</td>
+                                                        <td class="">Keep your school clean & tidy</td>
                                                         <td align="right">
-                                                        <span class="badge badge-info">6 Pages</span>
+                                                        <span class="badge badge-info">6 Slides</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
-                                                        <img src="{{asset('front/')}}/public/images/files/file-3.png" alt="logo">
+                                                        <a target="_blank" href="https://drive.google.com/file/d/1flhdtwGyUy2ej8dOP20raZ0qn-Zn9m7z/view?usp=sharing">
+                                                        <img src="{{asset('front/')}}/public/images/files/pdffile.png" alt="logo"></a>
                                                         </td>
-                                                        <td class="">Presentation</td>
+                                                        <td class="">Class Rules Poster</td>
                                                         <td align="right">
-                                                        <span class="badge badge-primary">6 Pages</span>
-                                                        </td>
+                                                        <span class="badge badge-success">6 Pages</span>
+                                                        </td></a>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
-                                                        <img src="{{asset('front/')}}/public/images/files/file-4.png" alt="logo">
+                                                        <img src="{{asset('front/')}}/public/images/files/jpgfile.png" alt="logo">
                                                         </td>
                                                         <td class="">Pictures</td>
                                                         <td align="right">
@@ -126,7 +128,7 @@
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
-                                                        <img src="{{asset('front/')}}/public/images/files/file-5.png" alt="logo">
+                                                        <img src="{{asset('front/')}}/public/images/files/mp3file.png" alt="logo">
                                                         </td>
                                                         <td class="">Music</td>
                                                         <td align="right">
