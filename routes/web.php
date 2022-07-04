@@ -32,7 +32,7 @@ Route::view('G3-wasting', 'ages8-9/G3-wasting');
 Route::view('G3-thankful', 'ages8-9/G3-thankful');
 Route::view('G3-empathy', 'ages8-9/G3-empathy');
 Route::view('G3-patience', 'ages8-9/G3-patience');
-Route::view('G3-interrupting', 'ages8-9/G3-interrupting');
+Route::view('G3-interruption', 'ages8-9/G3-interruption');
 
 
 
