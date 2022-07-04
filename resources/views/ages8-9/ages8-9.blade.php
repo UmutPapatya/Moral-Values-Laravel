@@ -312,7 +312,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('G3-honesty')}}">
+                                  <a href="{{asset ('G3-empathy')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -324,7 +324,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">-Honesty</div>
+                                                        <div class="card-title">Empathy</div>
                                                         <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
@@ -342,7 +342,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('G3-responsibility2')}}">
+                                  <a href="{{asset ('G3-patience')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -354,7 +354,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">-Responsibility2</div>
+                                                        <div class="card-title">Patience</div>
                                                         <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
                                                     </div>
                                                 </div>
@@ -371,7 +371,7 @@
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
-                                  <a href="{{asset ('G3-healtyfood')}}">
+                                  <a href="{{asset ('G3-interrupting')}}">
                                     <div class="card-body d-flex flex-column">
                                         <div class="d-flex align-items-center">
                                             <div class="flex">
@@ -383,7 +383,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">-Eating Healty Food</div>
+                                                        <div class="card-title">Interrupting</div>
                                                         <p class="flex text-50 lh-1 mb-0"><small>2 video</small></p>
                                                     </div>
                                                 </div>
@@ -397,7 +397,7 @@
                                 </div>
 
                             </div>
-
+<!--
                             <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
@@ -425,7 +425,7 @@
                                   </a>
                                 </div>
 
-                            </div>
+                            </div> -->
 <!--
                             <div class="col-sm-4 card-group-row__col">
 
