@@ -34,7 +34,7 @@
                                                     </div>
                                                     <div class="flex">
                                                         <div class="card-title">School and Classroom Rules</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos </small></p>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video </small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -91,7 +91,7 @@
                                                     </div>
                                                     <div class="flex">
                                                         <div class="card-title">Sharing</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -148,7 +148,7 @@
                                                     </div>
                                                     <div class="flex">
                                                         <div class="card-title">Effects of Wasting</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 video</small></p>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -236,7 +236,7 @@
                                                     </div>
                                                     <div class="flex">
                                                         <div class="card-title">Importance of Reading</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Video</small></p>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -309,7 +309,7 @@
 
                             </div>
 
-                            <div class="col-sm-4 card-group-row__col">
+                     <!--       <div class="col-sm-4 card-group-row__col">
 
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
                                   <a href="{{asset ('G5-honesty')}}">
@@ -337,7 +337,7 @@
                                   </a>
                                 </div>
 
-                            </div>
+                            </div>-->
 
                             <div class="col-sm-4 card-group-row__col">
                                 <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
@@ -348,7 +348,7 @@
                                                   <div class="d-flex align-items-center">
                                                       <div class="rounded mr-12pt z-0 o-hidden">
                                                           <div class="overlay">
-                                                              <img src="{{asset('front/')}}/public/images/numbers/n-12.png" width="40" height="40" alt="Angular" class="rounded">
+                                                              <img src="{{asset('front/')}}/public/images/numbers/n-11.png" width="40" height="40" alt="Angular" class="rounded">
                                                            
                                                           </div>
                                                       </div>
@@ -377,7 +377,7 @@
                                                 <div class="d-flex align-items-center">
                                                     <div class="rounded mr-12pt z-0 o-hidden">
                                                         <div class="overlay">
-                                                            <img src="{{asset('front/')}}/public/images/numbers/n-13.png" width="40" height="40" alt="Angular" class="rounded">
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-12.png" width="40" height="40" alt="Angular" class="rounded">
                                                       
                                                         </div>
                                                     </div>
