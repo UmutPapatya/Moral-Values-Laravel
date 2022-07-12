@@ -94,7 +94,7 @@
                                                         </td>
                                                         <td class="">Banner</td>
                                                         <td align="right">
-                                                        <span class="badge badge-success">6 Pages</span>
+                                                        <span class="badge badge-success">7 Pages</span>
                                                         </td></a>
                                                     </tr>
                                                     <tr>
@@ -114,26 +114,19 @@
                                                         </td>
                                                         <td class="">Class Rules Poster</td>
                                                         <td align="right">
-                                                        <span class="badge badge-success">6 Pages</span>
+                                                        <span class="badge badge-success">1 Page</span>
                                                         </td></a>
                                                     </tr>
                                                     <tr>
                                                         <td style="width: 40px">
-                                                        <img src="{{asset('front/')}}/public/images/files/jpgfile.png" alt="logo">
+                                                        <a target="_blank" href="https://docs.google.com/document/d/1DjlNzv41kVmYLwOgRapQCAf3HZoeUnHK/edit?usp=sharing&ouid=100744614925055123462&rtpof=true&sd=true">
+
+                                                        <img src="{{asset('front/')}}/public/images/files/wordfile.png" alt="logo">
                                                         </td>
-                                                        <td class="">Pictures</td>
+                                                        <td class="">Instructions</td>
                                                         <td align="right">
-                                                        <span class="badge badge-warning">6 Pages</span>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td style="width: 40px">
-                                                        <img src="{{asset('front/')}}/public/images/files/mp3file.png" alt="logo">
-                                                        </td>
-                                                        <td class="">Music</td>
-                                                        <td align="right">
-                                                        <span class="badge badge-dark">6 Pages</span>
-                                                        </td>
+                                                        <span class="badge badge-warning">3 Pages</span>
+                                                        </td></a>
                                                     </tr>
                                                     </tbody>
                                                 </table>
@@ -168,17 +161,7 @@
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
-                                            Andy never wanted to go to bed on time. His parents had explained to him how important it was to go to bed early and get a good rest. But Andy paid no attention to them, and they didn't know what to do. That was, until one weekend when they were visiting Andy´s grandparents.<br>
-
-Grandpa Peter heard all about it and said: "This sounds like a job for Tubby, my pot-bellied cat". They loaded the cat onto the car and returned home. Tubby was a slow, inflated-looking kind of a cat. He wasn't much of a bother because most of the time no one knew where he was.<br>
-That night, at bedtime, the same problem arose. Andy had no intention of going to bed, and even though his parents waited a while to see if Tubby would solve the problem, nothing happened.
-
-Hours later, Andy finally decided to go to bed. But what a surprise when he entered his bedroom! Tubby was in his bed, totally sprawled out, pot-belly in the air, and snoring like an express train. Andy tried to shift the cat, but there was no way of moving him an inch. That night he hardly slept a wink, being pushed over into one tiny corner of his bed.<br>
-The next day the same thing happened, even though Andy was much more tired from not having slept. When the third day arrived, he had understood that if he wanted to sleep in his bed, he would have to get into it before Tubby did. That night, when his parents merely started hinting at the topic of bedtime, Andy shot upstairs like a bullet, and dived into bed. His parents could not believe it. They knew nothing about Tubby in the bed, nor did they understand why Andy went to bed on time, without complaint. They were so happy about this that they stayed up quite late, celebrating, but...<br>
-
-... can you guess where Tubby slept that night? :-))
-                                        </p>
+                                        <p></p>
                                     </div>
                               <!--       <div class="d-flex flex-wrap align-items-end mb-16pt">
                                         <h2 class="text-dark flex m-0">Moral of the Story</h2>
