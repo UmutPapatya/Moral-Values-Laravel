@@ -118,7 +118,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="flex">
-                                                        <div class="card-title">Sharing</div>
+                                                        <div class="card-title">Sharing & Helping</div>
                                                         <p class="flex text-50 lh-1 mb-0"><small>2 videos</small></p>
                                                     </div>
                                                 </div>

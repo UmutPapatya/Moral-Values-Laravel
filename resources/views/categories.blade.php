@@ -519,6 +519,7 @@
         class="btn btn-primary btn-rounded floatt"
         style="background-color: #25d366;"
         href="https://wa.me/+9647500556437"
+        target="_blank"
         role="button"><i class="fab fa-whatsapp"></i
     ></a>
 
