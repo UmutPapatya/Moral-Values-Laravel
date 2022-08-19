@@ -507,9 +507,9 @@
                        class="text-70 text-underline mr-8pt small">Terms of use</a>
                     <a href="#privacypolicy"
                        class="text-70 text-underline mr-8pt small">Privacy policy</a>
-                    <a href="about.html"
+                    <a href="{{ url('/about') }}"
                        class="text-70 text-underline mr-8pt small">About us</a>
-                    <a href="contact.html"
+                    <a href="{{ url('/contact') }}"
                        class="text-70 text-underline small">Contact us</a>
                 </p>
                 <p class="text-50 small mt-n1 mb-0">Copyright 2021 &copy; All rights reserved.</p>
