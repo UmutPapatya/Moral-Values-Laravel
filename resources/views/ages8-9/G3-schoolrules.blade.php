@@ -161,7 +161,7 @@
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade active show" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                     <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <p>
+                                        <p class="hero__lead measure-hero-lead text-dark mb-24pt">
                                             Andy never wanted to go to bed on time. His parents had explained to him how important it was to go to bed early and get a good rest. But Andy paid no attention to them, and they didn't know what to do. That was, until one weekend when they were visiting Andy´s grandparents.<br>
                                             Grandpa Peter heard all about it and said: "This sounds like a job for Tubby, my pot-bellied cat". They loaded the cat onto the car and returned home. Tubby was a slow, inflated-looking kind of a cat. He wasn't much of a bother because most of the time no one knew where he was.<br>
                                             That night, at bedtime, the same problem arose. Andy had no intention of going to bed, and even though his parents waited a while to see if Tubby would solve the problem, nothing happened.<br>
