@@ -189,20 +189,20 @@ Roy stood there speechless, learning the lesson for his life.
                                             Once upon a time, there lived a small boy named Sachin. Sachin is a very naughty boy in the classroom. He always throws bits of paper and packets everywhere in the classroom. He makes his surroundings messy.<br>
                                             Everyone in the classroom asked Sachin not to throw bits of paper everywhere and maintain cleanliness but Sachin never listened to anyone in the classroom. Everyone started complaining about Sachin for not maintaining cleanliness in the classroom to Miss Mary who was in charge of the class.<br>
 
- Miss Mary then decided to change the behavior of Sachin. She called Sachin and tried to explain to Sachin the importance of cleanliness. But it was of no use. So Miss Mary thought of another plan to teach Sachin the importance of cleanliness.<br>
+                                            Miss Mary then decided to change the behavior of Sachin. She called Sachin and tried to explain to Sachin the importance of cleanliness. But it was of no use. So Miss Mary thought of another plan to teach Sachin the importance of cleanliness.<br>
 
- The next day, Miss Mary announced that she would give a star to everyone who spends 5 mins a day cleaning their surroundings. She announced that the place to clean can be anywhere. She also announced that a special gift will be given at the month end to the student who gets more stars.<br>
+                                            The next day, Miss Mary announced that she would give a star to everyone who spends 5 mins a day cleaning their surroundings. She announced that the place to clean can be anywhere. She also announced that a special gift will be given at the month end to the student who gets more stars.<br>
 
- Every student got excited. Sachin's friends started spending 5 mins a day cleaning their surroundings to get stars at the end of the day.<br>
+                                            Every student got excited. Sachin's friends started spending 5 mins a day cleaning their surroundings to get stars at the end of the day.<br>
 
- Sachin used to observe this every day. One day he decided to spend time cleaning his surroundings. He then started cleaning his surroundings and forgot about the time and cleaned everything like his bag, books, table, etc. <br>
- Within no time, everything was looking clean and tidy. Sachin felt much happy looking at the result. On that day, Miss Mary saw this and felt much happy. She called Sachin and asked everyone to clap for Sachin as he started to keep his surroundings clean and tidy. <br>
+                                            Sachin used to observe this every day. One day he decided to spend time cleaning his surroundings. He then started cleaning his surroundings and forgot about the time and cleaned everything like his bag, books, table, etc. <br>
+                                            Within no time, everything was looking clean and tidy. Sachin felt much happy looking at the result. On that day, Miss Mary saw this and felt much happy. She called Sachin and asked everyone to clap for Sachin as he started to keep his surroundings clean and tidy. <br>
 
- Miss Mary gave a star to Sachin. Sachin felt very happy about taking the star for the first time. From that day, he started keeping everything clean and tidy. Soon cleanliness became his routine and he started liking to keep everything tidy. <br>
+                                            Miss Mary gave a star to Sachin. Sachin felt very happy about taking the star for the first time. From that day, he started keeping everything clean and tidy. Soon cleanliness became his routine and he started liking to keep everything tidy. <br>
 
- After a month, Miss Mary announced a special gift to Sachin and asked everyone to take Sachin as inspiration. Sachin felt very happy and thanked Miss Mary for showing him the importance of cleanliness.<br>
+                                            After a month, Miss Mary announced a special gift to Sachin and asked everyone to take Sachin as inspiration. Sachin felt very happy and thanked Miss Mary for showing him the importance of cleanliness.<br>
 
- So, friends, Cleanliness is very important in our life. Make a habit of cleaning for only 5 minutes a day. You will be surprised to see how that 5 mins can make you to a habit of maintaining cleanliness. Make sure you try this and comment to us with the results.
+                                            So, friends, Cleanliness is very important in our life. Make a habit of cleaning for only 5 minutes a day. You will be surprised to see how that 5 mins can make you to a habit of maintaining cleanliness. Make sure you try this and comment to us with the results.
                                         </p>
                                     </div>
                                  <!--   <div class="d-flex flex-wrap align-items-end mb-16pt">
