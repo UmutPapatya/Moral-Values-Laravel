@@ -139,9 +139,9 @@
                             <div class="page-headline text-left">
                                 <h2>About Us</h2>
                                 <p class="mx-auto text-100" style="font-size: 20px">At moral values, children and adults can find the videos and stories which can motivate, inspire and educate.  You can read it yourself or to your children and help them to understand morals of life. Our present generation can use such stories and its moral in their life to become a better human.</p>
-                                <p class="mx-auto text-100" style="font-size: 20px">We encourage anyone to participate, read and submit any story which complies with terms of this website and can be the inspiration to others.  Also, if anyone would be interested in correcting grammar or spelling errors in user-submitted stories, you are welcome to submit it with corrections.
+                                <p class="mx-auto text-100" style="font-size: 20px">We encourage anyone to participate, watch, read and submit any video or a story which complies with terms of this website and can be the inspiration to others.  Also, if anyone would be interested in correcting grammar or spelling errors in user-submitted stories, you are welcome to submit it with corrections.
 
-                                    Thank you for visiting and Keep Reading Moral Stories!</p>
+                                    <br>Thank you for visiting.</p>
 
                             </div>
                         </div>
