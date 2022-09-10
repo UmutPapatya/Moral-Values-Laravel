@@ -247,35 +247,33 @@
                                 <img src="{{asset('front/')}}/public/images/vow.png" style="width:150px;" alt="image" class="card-img-top">
                             </div>
                             <h3 style="color: #FFFFFF;">Video of the Week</h3>
-                            <div class="tab-content" id="pills-tabContent">
-                                <div class="tab-pane fade active show" id="pills-video1" role="tabpanel" aria-labelledby="pills-video1-tab">
-                                    <iframe width="360" height="202" src="https://www.youtube.com/embed/g-a_SBq2ML0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <br> <br>
-                                    <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start">
-                                        <ul class="line">
-                                            <li>Description</li>
-                                            <p>
-                                                Respect your friends...
-                                                how they feel and think
-                                                Respect your family...
-                                                for all the joys they bring
-                                                Respect your teachers...
-                                                for they make you wise
-                                                Respect your pets...
-                                                for they make you smile
-
-                                            </p>
-            
-                                        </ul>
-                                    </div>
-                                </div>
-                        </div>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/g-a_SBq2ML0" allowfullscreen></iframe>
+                              </div>
+                              
+                              <div class="d-flex flex-column flex-sm-row align-items-center justify-content-start mt-3 ">
+                                <ul class="line">
+                                    <li>Description</li>
+                                    <p>
+                                        Respect your friends...
+                                        how they feel and think
+                                        Respect your family...
+                                        for all the joys they bring
+                                        Respect your teachers...
+                                        for they make you wise
+                                        Respect your pets...
+                                        for they make you smile
+                    
+                                    </p>
+                    
+                                </ul>
+                            </div>
                     </div>
                 </div>
                 
             </div>
             
-            <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
+            <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center d-none d-xl-block">
                 <div class="container page__container">
                     <ul class="nav navbar-nav flex align-items-sm-center">
 

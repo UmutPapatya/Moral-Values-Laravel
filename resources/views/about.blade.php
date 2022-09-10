@@ -147,7 +147,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center">
+                <div class="navbar navbar-expand-sm navbar-light bg-white border-bottom-2 navbar-list p-0 m-0 align-items-center d-none d-xl-block">
                     <div class="container page__container">
                         <ul class="nav navbar-nav flex align-items-sm-center">
     
@@ -159,7 +159,7 @@
                                 <i class="fab fa-2x fa-facebook-f" style="color: #3b5998;"></i>   
                             </li>
                             <li class="nav-item flex-column navbar-list__item">
-                                <!-- Facebook -->
+                                <!-- Twitter -->
                                 <i class="fab fa-2x fa-twitter" style="color: #55acee;"></i>
                             </li>
                             <li class="nav-item flex-column navbar-list__item">
