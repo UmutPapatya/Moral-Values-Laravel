@@ -50,15 +50,15 @@
                                                 </span>
                                                 <div class="flex">
             
-                                                    <h5 class="mb-0">ADEM TEKN</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-                                                    <br><span class="small text-uppercase text-muted">Project Coordinator</span>
+                                                    <h5 class="mb-0">ADEM TEKİN</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
+                                                    <br><span class="small text-uppercase text-muted">Project Manager</span>
                                                 </div>
                                                 <div class="d-flex align-items-center mt-8pt">
                                                    <!-- Twitter -->
                                                     <!-- <a style="color: #55acee;" href="https://twitter.com/ademtkn" target="_blank" class="fab fa-twitter-square font-size-24pt mr-8pt"></a> -->
                                                     
                                                     <!-- Google -->
-                                                    <a style="color: #ffffff; background-color: #dd4b39;" href="mailto:adem.tekin@moral-values.com" class="fab fa-google font-size-20pt mr-8pt"></a>
+                                                    <a style="color: #ffffff; background-color: #dd4b39;" href="mailto:ademtkn@gmail.com" class="fab fa-google font-size-20pt mr-8pt"></a>
                                                     <!-- Instagram -->
                                                     <a style="color: #ac2bac;" href="https://www.instagram.com/ademtkn_" class="fab fa-instagram-square font-size-24pt mr-8pt"></a>
                                                     <!-- Linkedin -->
