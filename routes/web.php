@@ -53,6 +53,9 @@ Route::view('G4-sharing', 'ages9-10/G4-sharing');
 Route::view('G4-technology', 'ages9-10/G4-technology');
 Route::view('G4-wasting', 'ages9-10/G4-wasting');
 Route::view('G4-healtyfood', 'ages9-10/G4-healtyfood');
+Route::view('G4-thanks-sorry', 'ages9-10/G4-thanks-sorry');
+Route::view('G4-empathy', 'ages9-10/G4-empathy');
+Route::view('G4-interruption', 'ages9-10/G4-interruption');
 
 Route::view('/ages10-11', 'ages10-11/ages10-11');
 Route::view('G5-cleanliness1', 'ages10-11/G5-cleanliness1');
