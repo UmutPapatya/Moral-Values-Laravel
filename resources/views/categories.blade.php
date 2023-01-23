@@ -227,7 +227,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages8-9') }}">Ages 8-9</a>
+                                                <a class="card-title" href="{{ url('/ages8-9') }}">Grade 3</a>
                                             </div>
                                         </div>
                                     </div>
@@ -264,7 +264,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages9-10') }}">Ages 9-10</a>
+                                                <a class="card-title" href="{{ url('/ages9-10') }}">Grade 4</a>
                                             </div>
                                         </div>
                                     </div>
@@ -301,7 +301,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages10-11') }}">Ages 10-11</a>
+                                                <a class="card-title" href="{{ url('/ages10-11') }}">Grade 5/a>
                                             </div>
                                         </div>
                                     </div>
@@ -338,7 +338,7 @@
                                     <div class="card-body flex">
                                         <div class="d-flex">
                                             <div class="flex">
-                                                <a class="card-title" href="{{ url('/ages11-12') }}">Ages 11-12</a>
+                                                <a class="card-title" href="{{ url('/ages11-12') }}">Grade 6</a>
                                             </div>
                                         </div>
                                     </div>
