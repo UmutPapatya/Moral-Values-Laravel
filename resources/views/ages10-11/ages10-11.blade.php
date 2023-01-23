@@ -13,7 +13,7 @@
                         </div>
 
                         <div class="page-separator">
-                            <div class="page-separator__text">Ages 10-11</div>
+                            <div class="page-separator__text">Grade 5</div>
                         </div>
 
                         <div class="row card-group-row mb-lg-8pt">

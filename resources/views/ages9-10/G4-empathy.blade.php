@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="Healty Food"
+                                         alt="empathy"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Healty Food</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Empathy</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Eating Healty Food</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Empathy</span>
 
                                 </p>
                             </div>
@@ -28,21 +28,21 @@
                 <div style="background-color: #539cb5" class="pb-lg-64pt py-32pt">
                     <div class="container page__container">
                         <div class="row">
-                            <div class="col-lg-9 bd-example bd-example-tabs">
+                            <div class="col-lg-8 bd-example bd-example-tabs">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                     <li class="nav-item">
                                         <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
                                     </li>
-                              <!--  <li class="nav-item">
+                                <li class="nav-item">
                                         <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
-                                    </li>-->
+                                    </li>
                                 </ul>
                                 <div class="tab-content" id="pills-tabContent">
                                     <div class="tab-pane fade active show" id="pills-video1">
                                         <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt" >
                                             <div class="player embed-responsive-item">
                                                 <div class="player__embed">
-                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9VtxCxtsMAI" allowfullscreen=""></iframe>
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cTOhzcSYMlM" allowfullscreen=""></iframe>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,7 +60,7 @@
                                         <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt">
                                             <div class="player embed-responsive-item">
                                                 <div class="player__embed">
-                                                    <iframe class="embed-responsive-item" src="#" allowfullscreen=""></iframe>
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9_1Rt1R4xbM" allowfullscreen=""></iframe>
                                                 </div>
                                             </div>
                                         </div>
@@ -76,7 +76,7 @@
                                 </div>  
                             </div>
                             
-                            <div class="col-lg-3">
+                            <div class="col-lg-4 ">
                        
                             </div>            
                         </div>
@@ -111,6 +111,6 @@
                 </div>
 
             </div>
-            // END Header Layout Content -->
+            <!-- // END Header Layout Content -->
 
- @endsection
+   @endsection

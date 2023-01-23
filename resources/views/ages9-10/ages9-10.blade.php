@@ -13,7 +13,7 @@
                         </div>
 
                         <div class="page-separator">
-                            <div class="page-separator__text">Ages 9-10</div>
+                            <div class="page-separator__text">Grade 4</div>
                         </div>
 
                         <div class="row card-group-row mb-lg-8pt">
@@ -394,6 +394,95 @@
 
                                     </div>
                                   </a>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-4 card-group-row__col">
+
+                                <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
+                                  <a href="{{asset ('G3-empathy')}}">
+                                    <div class="card-body d-flex flex-column">
+                                        <div class="d-flex align-items-center">
+                                            <div class="flex">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="rounded mr-12pt z-0 o-hidden">
+                                                        <div class="overlay">
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-14.png" width="40" height="40" alt="01" class="rounded">
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex">
+                                                        <div class="card-title">Empathy</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                  </a>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-4 card-group-row__col">
+
+                                <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
+                                  <a href="{{asset ('G3-interruption')}}">
+                                    <div class="card-body d-flex flex-column">
+                                        <div class="d-flex align-items-center">
+                                            <div class="flex">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="rounded mr-12pt z-0 o-hidden">
+                                                        <div class="overlay">
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-15.png" width="40" height="40" alt="01" class="rounded">
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex">
+                                                        <div class="card-title">Interrupting</div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 video</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                  </a>
+                                </div>
+
+                            </div>
+
+
+                            <div class="col-sm-4 card-group-row__col">
+
+                                <div class="card js-overlay card-sm overlay--primary-dodger-blue stack stack--1 card-group-row__card" data-toggle="popover" data-trigger="click" data-original-title="" title="" data-domfactory-upgraded="overlay">
+                                   <a href="{{asset ('G3-thanks-sorry')}}">
+                                    <div class="card-body d-flex flex-column">
+                                        <div class="d-flex align-items-center">
+                                            <div class="flex">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="rounded mr-12pt z-0 o-hidden">
+                                                        <div class="overlay">
+                                                            <img src="{{asset('front/')}}/public/images/numbers/n-16.png" width="40" height="40" alt="01" class="rounded">
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="flex">
+                                                        <div class="card-title">Thanks - Sorry </div>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Video</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                   </a> 
                                 </div>
 
                             </div>

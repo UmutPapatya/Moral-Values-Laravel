@@ -1,5 +1,5 @@
 @extends('front.layouts.master')
-@section('title','Moral-Values Ages 9-10')
+@section('title','Moral-Values Grade 4')
 @section('content')
 
             <!-- Header Layout Content -->

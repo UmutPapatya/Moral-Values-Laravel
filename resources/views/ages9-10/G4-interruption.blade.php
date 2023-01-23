@@ -11,14 +11,14 @@
                             <div class="media-left mr-8pt">
                                 <a href="#"><img src="{{asset('front/')}}/public/images/story.png""
                                          width="60"
-                                         alt="Healty Food"
+                                         alt="interrupting"
                                          class="rounded"></a>
                             </div>
                             <div class="media-body">
                                 <a href="#"
-                                   class="card-title text-body mb-24 mt-8pt"">Healty Food</a>
+                                   class="card-title text-body mb-24 mt-8pt"">Interruption</a>
                                 <p class="lh-1 d-flex align-items-center mb-0">
-                                    <span class="text-50 small font-weight-bold mr-0pt">Importance of Eating Healty Food</span>
+                                    <span class="text-50 small font-weight-bold mr-0pt">The Effect of Interruption</span>
 
                                 </p>
                             </div>
@@ -33,16 +33,16 @@
                                     <li class="nav-item">
                                         <a class="btn btn-white flex-auto mb-8pt mb-sm-0 mr-sm-16pt active show" id="pills-video1-tab" data-toggle="pill" href="#pills-video1" role="tab" aria-controls="pills-home" aria-selected="true">Video 1</a>
                                     </li>
-                              <!--  <li class="nav-item">
+                                    <li class="nav-item">
                                         <a class="btn btn-warning flex-auto mb-8pt mb-sm-0 mr-sm-16pt" id="pills-profile-tab" data-toggle="pill" href="#pills-video2" role="tab" aria-controls="pills-profile" aria-selected="false">Video 2</a>
-                                    </li>-->
+                                    </li>
                                 </ul>
                                 <div class="tab-content" id="pills-tabContent">
                                     <div class="tab-pane fade active show" id="pills-video1">
                                         <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt" >
                                             <div class="player embed-responsive-item">
                                                 <div class="player__embed">
-                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9VtxCxtsMAI" allowfullscreen=""></iframe>
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4S3niJzTqvM" allowfullscreen=""></iframe>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,7 +60,7 @@
                                         <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt">
                                             <div class="player embed-responsive-item">
                                                 <div class="player__embed">
-                                                    <iframe class="embed-responsive-item" src="#" allowfullscreen=""></iframe>
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AifKm6TsWJA" allowfullscreen=""></iframe>
                                                 </div>
                                             </div>
                                         </div>

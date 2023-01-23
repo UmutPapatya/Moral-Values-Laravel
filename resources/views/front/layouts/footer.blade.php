@@ -16,7 +16,11 @@
             <li class="nav-item flex-column navbar-list__item">
             <!-- Instagram -->
             <i class="fab fa-2x fa-instagram" style="color: #ac2bac;"></i>
-        </li>
+            </li>
+            <li class="nav-item flex-column navbar-list__item">
+                <!-- Tiktok -->
+                <i class="fab fa-2x fa-tiktok" style="color: #ff0050;"></i>
+            </li>
         </ul>
     </div>
 </div>
