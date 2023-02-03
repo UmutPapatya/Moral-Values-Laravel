@@ -63,7 +63,7 @@
                                                     </div>
                                                     <div class="flex">
                                                         <div class="card-title">Cleanliness</div>
-                                                        <p class="flex text-50 lh-1 mb-0"><small>1 Videos</small></p>
+                                                        <p class="flex text-50 lh-1 mb-0"><small>2 Videos</small></p>
                                                     </div>
                                                 </div>
                                             </div>
