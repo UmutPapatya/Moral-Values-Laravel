@@ -60,7 +60,7 @@
                                         <div class="js-player embed-responsive embed-responsive-16by9 mb-32pt">
                                             <div class="player embed-responsive-item">
                                                 <div class="player__embed">
-                                                    <iframe class="embed-responsive-item" src="#" allowfullscreen=""></iframe>
+                                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AuzeN9qO8io" allowfullscreen=""></iframe>
                                                 </div>
                                             </div>
                                         </div>
